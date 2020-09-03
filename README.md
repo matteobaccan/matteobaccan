@@ -31,6 +31,5 @@ Here are some ideas to get you started:
 
 ![Matteobaccan's github stats](https://github-readme-stats.vercel.app/api?username=matteobaccan)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteobaccan&layout=compact)
-<hr>
-![Profile views](https://gpvc.arturio.dev/matteobaccan) •
-<a href="https://twitter.com/matteobaccan/follow?screen_name=matteobaccan&tw_p=followbutton">Twitter</a> •
+
+![Profile views](https://gpvc.arturio.dev/matteobaccan)
