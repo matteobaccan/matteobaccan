@@ -31,3 +31,8 @@ Here are some ideas to get you started:
 
 ![Matteobaccan's github stats](https://github-readme-stats.vercel.app/api?username=matteobaccan)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteobaccan&layout=compact)
+
+<h1>Last Tweet</h1>
+<p><a href="https://www.twitter.com/matteobaccan"><img src="https://github.com/mokkapps/mokkapps/blob/master/tweet.png" width="600"></a></p>
+
+![Profile views](https://gpvc.arturio.dev/matteobaccan)
