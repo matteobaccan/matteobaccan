@@ -45,28 +45,38 @@ Here are some ideas to get you started:
 ![Android](http://img.shields.io/badge/-Android-333333?style=flat&logo=android)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
 ![Maven](http://img.shields.io/badge/-Maven-333333?style=flat&logo=Maven)
-
+![ANT](http://img.shields.io/badge/-ANT-333333?style=flat&logo=apacheant)
 ![NetBeans](http://img.shields.io/badge/-NetBeans-333333?style=flat&logo=apachenetbeanside)
 ![Eclipse](http://img.shields.io/badge/-Eclipse-333333?style=flat&logo=Eclipse)
+
 ![Svn](https://img.shields.io/badge/-Svn-333333?style=flat&logo=subversion)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 ![Jenkins](https://img.shields.io/badge/-jenkins-333333?style=flat&logo=jenkins)
-![Zoom](https://img.shields.io/badge/-Zoom-333333?style=flat&logo=Zoom)
+![SonarQube](https://img.shields.io/badge/-SonarQube-333333?style=flat&logo=SonarQube)
+
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=MariaDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+![Microsoft SQL Server](https://img.shields.io/badge/-MicrosoftSQLServer-333333?style=flat&logo=MicrosoftSQLServer)
+
 ![ActiveMQ](https://img.shields.io/badge/-ActiveMQ-333333?style=flat&logo=ActiveMQ)
 ![WMQ](https://img.shields.io/badge/-WMQ-333333?style=flat&logo=WMQ)
+![Zoom](https://img.shields.io/badge/-Zoom-333333?style=flat&logo=Zoom)
+![GoogleMaps](https://img.shields.io/badge/-GoogleMaps-333333?style=flat&logo=GoogleMaps)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=Wordpress)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=Spring)
+![JSONWebTokens](https://img.shields.io/badge/-JSONWebTokens-333333?style=flat&logo=JSONWebTokens&logoColor=000000)
 ![PayPal](https://img.shields.io/badge/-PayPal-333333?style=flat&logo=PayPal)
+![WooCommerce](https://img.shields.io/badge/-WooCommerce-333333?style=flat&logo=WooCommerce)
+
 ![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=Jquery)
-
-
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
 
 ![AWS](http://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-333333?style=flat&logo=RaspberryPi&logoColor=C51A4A)
 ![MacOS](http://img.shields.io/badge/-Mac%20OS-333333?style=flat&logo=apple)
 ![Windows](http://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 
