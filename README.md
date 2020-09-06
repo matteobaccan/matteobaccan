@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--https://simpleicons.org/?q=raspb -->
+<!-- https://shields.io/ -->
 ### 💻 Languages I have used
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -64,10 +66,10 @@ Here are some ideas to get you started:
 ![ActiveMQ](https://img.shields.io/badge/-ActiveMQ-333333?style=flat&logo=ActiveMQ)
 ![WMQ](https://img.shields.io/badge/-WMQ-333333?style=flat&logo=IBM&logoColor=054ADA)
 ![Zoom](https://img.shields.io/badge/-Zoom-333333?style=flat&logo=Zoom)
-![GoogleMaps](https://img.shields.io/badge/-GoogleMaps-333333?style=flat&logo=GoogleMaps)
+![Google Maps](https://img.shields.io/badge/-Google%20Maps-333333?style=flat&logo=Google%20Maps)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=Wordpress)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=Spring)
-![JSONWebTokens](https://img.shields.io/badge/-JSONWebTokens-333333?style=flat&logo=JSONWebTokens&logoColor=000000)
+![JSON Web Tokens](https://img.shields.io/badge/-JSON%20Web%20Tokens-333333?style=flat&logo=JSON%20Web%20Tokens&logoColor=000000)
 ![PayPal](https://img.shields.io/badge/-PayPal-333333?style=flat&logo=PayPal)
 ![WooCommerce](https://img.shields.io/badge/-WooCommerce-333333?style=flat&logo=WooCommerce)
 
@@ -76,7 +78,7 @@ Here are some ideas to get you started:
 
 ![AWS](http://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-333333?style=flat&logo=RaspberryPi&logoColor=C51A4A)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=Raspberry%20Pi&logoColor=C51A4A)
 ![MacOS](http://img.shields.io/badge/-Mac%20OS-333333?style=flat&logo=apple)
 ![Windows](http://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 
