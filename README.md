@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 ### 🗜 Some of the technologies I have worked with
 ![Android](http://img.shields.io/badge/-Android-333333?style=flat&logo=android)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
-![Maven](http://img.shields.io/badge/-Maven-333333?style=flat&logo=Maven)
-![ANT](http://img.shields.io/badge/-ANT-333333?style=flat&logo=apacheant)
-![NetBeans](http://img.shields.io/badge/-NetBeans-333333?style=flat&logo=apachenetbeanside)
+![Apache Maven](http://img.shields.io/badge/-Apache%20Maven-333333?style=flat&logo=Apache%20Maven&logoColor=C71A36)
+![Apache ANT](http://img.shields.io/badge/-Apache%20ANT-333333?style=flat&logo=Apache%20Ant&logoColor=A81C7D)
+![Apache NetBeans IDE](http://img.shields.io/badge/-Apache%20NetBeans%20IDE-333333?style=flat&logo=Apache%20NetBeans%20IDE&logoColor=0052CC)
 ![Eclipse](http://img.shields.io/badge/-Eclipse-333333?style=flat&logo=Eclipse)
 
 ![Svn](https://img.shields.io/badge/-Svn-333333?style=flat&logo=subversion)
@@ -59,10 +59,10 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=MariaDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
-![Microsoft SQL Server](https://img.shields.io/badge/-MicrosoftSQLServer-333333?style=flat&logo=MicrosoftSQLServer)
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333333?style=flat&logo=Microsoft%20SQL%20Server&logoColor=CC2927)
 
 ![ActiveMQ](https://img.shields.io/badge/-ActiveMQ-333333?style=flat&logo=ActiveMQ)
-![WMQ](https://img.shields.io/badge/-WMQ-333333?style=flat&logo=WMQ)
+![WMQ](https://img.shields.io/badge/-WMQ-333333?style=flat&logo=IBM&logoColor=054ADA)
 ![Zoom](https://img.shields.io/badge/-Zoom-333333?style=flat&logo=Zoom)
 ![GoogleMaps](https://img.shields.io/badge/-GoogleMaps-333333?style=flat&logo=GoogleMaps)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=Wordpress)
