@@ -88,4 +88,3 @@ Here are some ideas to get you started:
 
 ![Profile views](https://gpvc.arturio.dev/matteobaccan)
 
-[![Matteo Baccan](https://github-readme-stackoverflow.vercel.app/?userID=matteobaccan)]
