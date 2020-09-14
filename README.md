@@ -87,3 +87,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteobaccan&layout=compact)
 
 ![Profile views](https://gpvc.arturio.dev/matteobaccan)
+
+[![Matteo Baccan](https://github-readme-stackoverflow.vercel.app/?userID=matteobaccan)]
