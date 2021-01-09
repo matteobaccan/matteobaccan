@@ -88,8 +88,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteobaccan&layout=compact)
 -->
 
-![Metrics](https://metrics.lecoq.io/matteobaccan?template=classic&followup=1&isocalendar=1&languages=1&stars=1&isocalendar.duration=full-year&stars.limit=4&config.timezone=Europe%2FRome)
-
 ![Metrics](https://metrics.lecoq.io/matteobaccan)
 
 ![Profile views](https://gpvc.arturio.dev/matteobaccan)
