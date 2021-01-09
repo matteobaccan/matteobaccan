@@ -83,9 +83,10 @@ Here are some ideas to get you started:
 ![MacOS](http://img.shields.io/badge/-Mac%20OS-333333?style=flat&logo=apple)
 ![Windows](http://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 
-
+<!--
 ![Matteobaccan's github stats](https://github-readme-stats.vercel.app/api?username=matteobaccan)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteobaccan&layout=compact)
+-->
 
 ![Metrics](https://metrics.lecoq.io/matteobaccan?template=classic&followup=1&languages=1&isocalendar=1&pagespeed=1&stars=1&pagespeed.detailed=true&pagespeed.screenshot=true&isocalendar.duration=full-year&stars.limit=4&config.timezone=Europe%2FRome)
 
