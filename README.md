@@ -14,6 +14,8 @@
 <p><a href="https://github.com/matteobaccan/matteobaccan/issues/new">🙋🏻 Ask a question</a></p>
 You can ask anything but I might choose not to reply 😛
 
+![Snake animation](https://github.com/matteobaccan/matteobaccan/blob/snake/github-contribution-grid-snake.svg)
+
 <!--
 ### Hi there 👋
 -->
