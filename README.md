@@ -9,31 +9,16 @@
   <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
 -->
 </p>
-<p><a href="https://www.baccan.it">👦 Check out my website</a></p>
-<p><a href="https://metrics.lecoq.io/about/matteobaccan">📈 My Metrics</a></p>
-<p><a href="https://github.com/matteobaccan/matteobaccan/issues/new">🙋🏻 Ask a question</a></p>
+
+![👦 Check out my website](https://www.baccan.it)
+
+![📈 My Metrics](https://metrics.lecoq.io/about/matteobaccan)
+
+![🙋🏻 Ask a question](https://github.com/matteobaccan/matteobaccan/issues/new)
 You can ask anything but I might choose not to reply 😛
 
+### My contributions
 ![Snake animation](https://github.com/matteobaccan/matteobaccan/blob/snake/github-contribution-grid-snake.svg)
-
-<!--
-### Hi there 👋
--->
-
-<!--
-**matteobaccan/matteobaccan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!--https://simpleicons.org/?q=raspb -->
 <!-- https://shields.io/ -->
