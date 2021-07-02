@@ -10,11 +10,11 @@
 -->
 </p>
 
-![👦 Check out my website](https://www.baccan.it)
+<a href="https://www.baccan.it">👦 Check out my website</a>
 
-![📈 My Metrics](https://metrics.lecoq.io/about/matteobaccan)
+<a href="https://metrics.lecoq.io/about/matteobaccan">📈 My Metrics</a>
 
-![🙋🏻 Ask a question](https://github.com/matteobaccan/matteobaccan/issues/new)
+<a href="https://github.com/matteobaccan/matteobaccan/issues/new">🙋🏻 Ask a question</a>
 You can ask anything but I might choose not to reply 😛
 
 ### My contributions
