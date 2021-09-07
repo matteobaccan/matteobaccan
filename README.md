@@ -20,6 +20,11 @@ You can ask anything but I might choose not to reply 😛
 ### My contributions
 ![Snake animation](https://github.com/matteobaccan/matteobaccan/blob/snake/github-contribution-grid-snake.svg)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=matteobaccan">
+<img src="https://github-profile-trophy.vercel.app/?username=matteobaccan">
+<img src="https://activity-graph.herokuapp.com/graph?username=matteobaccan&theme=github&count_private=true">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matteobaccan&theme=github_dark">
+
 <!--https://simpleicons.org/?q=raspb -->
 <!-- https://shields.io/ -->
 ### 💻 Languages I have used
