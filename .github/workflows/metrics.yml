@@ -39,6 +39,8 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
           plugin_gists: yes
           plugin_licenses: yes
           #plugin_people: yes
