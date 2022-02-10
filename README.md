@@ -14,6 +14,8 @@
 
 <a href="https://metrics.lecoq.io/about/matteobaccan">📈 My Metrics</a>
 
+<a href="https://resume.github.io/?matteobaccan">🏆 My Resume</a>
+
 <a href="https://github.com/matteobaccan/matteobaccan/issues/new">🙋🏻 Ask a question</a>
 You can ask anything but I might choose not to reply 😛
 
