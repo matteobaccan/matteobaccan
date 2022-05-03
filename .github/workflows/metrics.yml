@@ -17,7 +17,7 @@ jobs:
 
           # Options
           user: matteobaccan
-          template: classic          
+          template: classic
           base: header, activity, community, repositories, metadata
           repositories_forks: yes
           config_timezone: Europe/Rome
@@ -47,12 +47,12 @@ jobs:
           #plugin_people_types: followers, following
           #plugin_people_limit: 28
           #plugin_people_size: 28
-          
+
       - uses: Platane/snk@master
         with:
           github_user_name: matteobaccan
           gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg          
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
