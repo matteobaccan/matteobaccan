@@ -85,6 +85,8 @@ You can ask anything but I might choose not to reply 😛
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteobaccan&layout=compact)
 -->
 
+<a href="https://quine.sh/profile/matteobaccan"><img src="https://stats.quine.sh/matteobaccan/github" alt="matteobaccan's GitHub stats" width="840px"></a>
+
 ![Metrics](github-metrics.svg)
 
 ![Profile views](https://gpvc.arturio.dev/matteobaccan)
