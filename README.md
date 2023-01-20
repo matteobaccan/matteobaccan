@@ -24,8 +24,8 @@ You can ask anything but I might choose not to reply 😛
 | Corso | Descrizione |
 |-------|-------------|
 | [Corso HTML](https://github.com/matteobaccan/CorsoHTML) | Materiale in italiano propedeutico alla realizzazione di corsi HTML5 - Slide, esempi locali e su codepen |
-| [Corso introduttivo a Javascript](https://github.com/matteobaccan/CorsoJavascript) | Materiale in italiano propedeutico alla realizzazione di corsi Javascript - Slide, esempi locali e su codepen |
 | [Corso CSS](https://github.com/matteobaccan/CorsoCSS) | Materiale in italiano propedeutico alla realizzazione di corsi CSS3 - Slide, esempi locali e su codepen|
+| [Corso introduttivo a Javascript](https://github.com/matteobaccan/CorsoJavascript) | Materiale in italiano propedeutico alla realizzazione di corsi Javascript - Slide, esempi locali e su codepen |
 | [Corso introduttivo alla UX](https://github.com/matteobaccan/CorsoUX) | Materiale in italiano propedeutico alla realizzazione di corsi UX Design - Slide, domande di autovalutazione |
 | [Corso introduttivo alla AI](https://github.com/matteobaccan/CorsoAI) | Materiale in italiano propedeutico alla realizzazione di corsi sull'intelligenza artificiale - Slide |
 
