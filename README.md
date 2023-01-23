@@ -1,47 +1,60 @@
-<p>Hi, I'm Matteo Baccan. I'm a software engineer from Italy.</p>
-<p>
-  <a href="https://twitter.com/matteobaccan"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-  <a href="https://www.linkedin.com/in/matteobaccan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  <a href="https://www.instagram.com/matteo_baccan/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-  <a href="https://www.youtube.com/user/matteobaccan/"><img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
+# Matteo Baccan
+
+Hi, I'm Matteo Baccan. I'm a software engineer from Italy.
+
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/matteobaccan)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteobaccan)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matteo_baccan/)
+[![YouTube](https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/matteobaccan/)
+
 <!--
   <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
   <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
 -->
-</p>
 
-<a href="https://www.baccan.it">👦 Check out my website</a>
+[👦 Check out my website](https://www.baccan.it)
 
-<a href="https://metrics.lecoq.io/about/matteobaccan">📈 My Metrics</a>
+[📈 My Metrics](https://metrics.lecoq.io/about/matteobaccan)
 
-<a href="https://resume.github.io/?matteobaccan">🏆 My Resume</a>
+[🏆 My Resume](https://resume.github.io/?matteobaccan)
 
-<a href="https://github.com/matteobaccan/matteobaccan/issues/new">🙋🏻 Ask a question</a>
-You can ask anything but I might choose not to reply 😛
+[🙋🏻 Ask a question](https://github.com/matteobaccan/matteobaccan/issues/new) You can ask anything but I might choose not to reply 😛
 
-### Mi courses
+## My courses
+
+Below is the material I have produced over time while studying various technologies. It can be used as a support for course creation or as personal study material.
 
 | Corso | Descrizione |
 |-------|-------------|
-| [Corso HTML](https://github.com/matteobaccan/CorsoHTML) | Materiale in italiano propedeutico alla realizzazione di corsi HTML5 - Slide, esempi locali e su codepen |
-| [Corso CSS](https://github.com/matteobaccan/CorsoCSS) | Materiale in italiano propedeutico alla realizzazione di corsi CSS3 - Slide, esempi locali e su codepen|
-| [Corso introduttivo a Javascript](https://github.com/matteobaccan/CorsoJavascript) | Materiale in italiano propedeutico alla realizzazione di corsi Javascript - Slide, esempi locali e su codepen |
+| [Corso HTML](https://github.com/matteobaccan/CorsoHTML) | Materiale in italiano propedeutico alla realizzazione di corsi HTML5 - Slide, esempi locali e su [Codepen.io](https://codepen.io/collection/kNxEPO?grid_type=list&sort_by=itemcreatedat) |
+| [Corso CSS](https://github.com/matteobaccan/CorsoCSS) | Materiale in italiano propedeutico alla realizzazione di corsi CSS3 - Slide, esempi locali e su [Codepen.io](https://codepen.io/collection/eJrMmO?grid_type=list&sort_by=itemcreatedat) |
+| [Corso introduttivo a Javascript](https://github.com/matteobaccan/CorsoJavascript) | Materiale in italiano propedeutico alla realizzazione di corsi Javascript - Slide, esempi locali e su [Codepen.io](https://codepen.io/collection/rxYLax?grid_type=list&sort_by=itemcreatedat) |
 | [Corso introduttivo alla UX](https://github.com/matteobaccan/CorsoUX) | Materiale in italiano propedeutico alla realizzazione di corsi UX Design - Slide, domande di autovalutazione |
 | [Corso introduttivo alla AI](https://github.com/matteobaccan/CorsoAI) | Materiale in italiano propedeutico alla realizzazione di corsi sull'intelligenza artificiale - Slide |
 
 ### My contributions
+
 ![Snake animation](https://github.com/matteobaccan/matteobaccan/blob/snake/github-contribution-grid-snake.svg)
 
 ### More statistics
 
+![Contribution](https://github-readme-streak-stats.herokuapp.com/?user=matteobaccan)
+![Trophy](https://github-profile-trophy.vercel.app/?username=matteobaccan)
+![Activity](https://activity-graph.herokuapp.com/graph?username=matteobaccan&theme=github&count_private=true)
+![Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matteobaccan&theme=github_dark)
+
+<!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=matteobaccan">
 <img src="https://github-profile-trophy.vercel.app/?username=matteobaccan">
 <img src="https://activity-graph.herokuapp.com/graph?username=matteobaccan&theme=github&count_private=true">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matteobaccan&theme=github_dark">
+-->
 
 <!--https://simpleicons.org/?q=raspb -->
 <!-- https://shields.io/ -->
+
 ### 💻 Languages I have used
+
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![ASM](https://img.shields.io/badge/-ASM-333333?style=flat&logo=ASM)
@@ -54,6 +67,7 @@ You can ask anything but I might choose not to reply 😛
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 
 ### 🗜 Some of the technologies I have worked with
+
 ![Android](http://img.shields.io/badge/-Android-333333?style=flat&logo=android)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
 ![Apache Maven](http://img.shields.io/badge/-Apache%20Maven-333333?style=flat&logo=Apache%20Maven&logoColor=C71A36)
@@ -97,7 +111,11 @@ You can ask anything but I might choose not to reply 😛
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteobaccan&layout=compact)
 -->
 
+[![matteobaccan's GitHub stats](https://stats.quine.sh/matteobaccan/github)](https://quine.sh/profile/matteobaccan)
+
+<!--
 <a href="https://quine.sh/profile/matteobaccan"><img src="https://stats.quine.sh/matteobaccan/github" alt="matteobaccan's GitHub stats" width="840px"></a>
+-->
 
 ![Metrics](github-metrics.svg)
 
