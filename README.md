@@ -28,6 +28,7 @@ Below is the material I have produced over time while studying various technolog
 |-------|-------------|
 | [Corso HTML](https://github.com/matteobaccan/CorsoHTML) | Materiale in italiano propedeutico alla realizzazione di corsi HTML5 - Slide, esempi locali e su [Codepen.io](https://codepen.io/collection/kNxEPO?grid_type=list&sort_by=itemcreatedat) |
 | [Corso CSS](https://github.com/matteobaccan/CorsoCSS) | Materiale in italiano propedeutico alla realizzazione di corsi CSS3 - Slide, esempi locali e su [Codepen.io](https://codepen.io/collection/eJrMmO?grid_type=list&sort_by=itemcreatedat) |
+| [Corso SASS](https://github.com/matteobaccan/CorsoSASS) |  __in preparazione__ Materiale in italiano propedeutico alla realizzazione di corsi SASS - Slide, esempi locali e su Codepen.io |
 | [Corso introduttivo a Javascript](https://github.com/matteobaccan/CorsoJavascript) | Materiale in italiano propedeutico alla realizzazione di corsi Javascript - Slide, esempi locali e su [Codepen.io](https://codepen.io/collection/rxYLax?grid_type=list&sort_by=itemcreatedat) |
 | [Corso introduttivo alla UX](https://github.com/matteobaccan/CorsoUX) | Materiale in italiano propedeutico alla realizzazione di corsi UX Design - Slide, domande di autovalutazione |
 | [Corso introduttivo alla AI](https://github.com/matteobaccan/CorsoAI) | Materiale in italiano propedeutico alla realizzazione di corsi sull'intelligenza artificiale - Slide |
