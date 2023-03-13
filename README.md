@@ -26,6 +26,7 @@ Below is the material I have produced over time while studying various technolog
 
 | Corso | Descrizione |
 |-------|-------------|
+| [Corso WebDesign](https://github.com/matteobaccan/CorsoWebDesign) | Materiale in italiano propedeutico alla realizzazione di corsi di WebDesign |
 | [Corso HTML](https://github.com/matteobaccan/CorsoHTML) | Materiale in italiano propedeutico alla realizzazione di corsi HTML5 - Slide, esempi locali e su [Codepen.io](https://codepen.io/collection/kNxEPO?grid_type=list&sort_by=itemcreatedat) |
 | [Corso CSS](https://github.com/matteobaccan/CorsoCSS) | Materiale in italiano propedeutico alla realizzazione di corsi CSS3 - Slide, esempi locali e su [Codepen.io](https://codepen.io/collection/eJrMmO?grid_type=list&sort_by=itemcreatedat) |
 | [Corso SASS](https://github.com/matteobaccan/CorsoSASS) |  __in preparazione__ Materiale in italiano propedeutico alla realizzazione di corsi SASS - Slide, esempi locali e su Codepen.io |
