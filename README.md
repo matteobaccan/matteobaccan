@@ -24,19 +24,19 @@ Hi, I'm Matteo Baccan. I'm a software engineer from Italy.
 
 Below is the material I have produced over time while studying various technologies. It can be used as a support for course creation or as personal study material.
 
-| Corso | Descrizione |
-|-------|-------------|
-| [Corso WebDesign](https://github.com/matteobaccan/CorsoWebDesign) | Materiale in italiano propedeutico alla realizzazione di corsi di WebDesign |
-| [Corso HTML](https://github.com/matteobaccan/CorsoHTML) | Materiale in italiano propedeutico alla realizzazione di corsi HTML5 - Slide, esempi locali e su [Codepen.io](https://codepen.io/collection/kNxEPO?grid_type=list&sort_by=itemcreatedat) |
-| [Corso CSS](https://github.com/matteobaccan/CorsoCSS) | Materiale in italiano propedeutico alla realizzazione di corsi CSS3 - Slide, esempi locali e su [Codepen.io](https://codepen.io/collection/eJrMmO?grid_type=list&sort_by=itemcreatedat) |
-| [Corso SASS](https://github.com/matteobaccan/CorsoSASS) |  __in preparazione__ Materiale in italiano propedeutico alla realizzazione di corsi SASS - Slide, esempi locali e su Codepen.io |
-| [Corso jQuery](https://github.com/matteobaccan/CorsojQuery) |  __in preparazione__ Materiale in italiano propedeutico alla realizzazione di corsi jQuery - Slide, esempi locali e su [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/LPzxzo) |
-| [Corso introduttivo a Javascript](https://github.com/matteobaccan/CorsoJavascript) | Materiale in italiano propedeutico alla realizzazione di corsi Javascript - Slide, esempi locali e su [Codepen.io](https://codepen.io/collection/rxYLax?grid_type=list&sort_by=itemcreatedat) |
-| [Corso introduttivo alla UX](https://github.com/matteobaccan/CorsoUX) | Materiale in italiano propedeutico alla realizzazione di corsi UX Design - Slide, domande di autovalutazione |
-| [Corso introduttivo alla AI](https://github.com/matteobaccan/CorsoAI) | Materiale in italiano propedeutico alla realizzazione di corsi sull'intelligenza artificiale - Slide |
-| [Concetti di base della Reputation Economy](https://github.com/matteobaccan/CorsoReputationEconomy) | Concetti di base della Reputation Economy: cos'è e perchè dovremmo tenerne conto - Slide |
-| [Concetti Reputazione Digitale](https://github.com/matteobaccan/CorsoReputazioneDigitale) | Concetti di base della Reputation digitale: quanto conta la nosra reputazione? - Slide |
-| [Corso Online IDE](https://github.com/matteobaccan/CorsoOnlineIDE) | Alternative a CodeSpace per l'edit di progetti su GitHiub - Slide |
+| Corso | Descrizione | Esempi |
+|-------|-------------|--|
+| [WebDesign](https://github.com/matteobaccan/CorsoWebDesign) | Materiale in italiano propedeutico alla realizzazione di corsi di WebDesign | |
+| [HTML](https://github.com/matteobaccan/CorsoHTML) | Materiale in italiano propedeutico alla realizzazione di corsi HTML5 - Slide ed esempi | [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/kNxEPO?sort_by=itemcreatedat) |
+| [CSS](https://github.com/matteobaccan/CorsoCSS) | Materiale in italiano propedeutico alla realizzazione di corsi CSS3 - Slide ed esempi | [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/eJrMmO?sort_by=itemcreatedat) |
+| [SASS](https://github.com/matteobaccan/CorsoSASS) |  __in preparazione__ Materiale in italiano propedeutico alla realizzazione di corsi SASS - Slide ed esempi | |
+| [Introduzione a Javascript](https://github.com/matteobaccan/CorsoJavascript) | Materiale in italiano propedeutico alla realizzazione di corsi Javascript - Slide ed esempi | [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/rxYLax?sort_by=itemcreatedat) |
+| [jQuery](https://github.com/matteobaccan/CorsojQuery) |  __in preparazione__ Materiale in italiano propedeutico alla realizzazione di corsi jQuery - Slide e esempi | [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/LPzxzo?sort_by=itemcreatedat) |
+| [Introduzione alla UX](https://github.com/matteobaccan/CorsoUX) | Materiale in italiano propedeutico alla realizzazione di corsi UX Design - Slide, domande di autovalutazione | |
+| [Introduzione alla AI](https://github.com/matteobaccan/CorsoAI) | Materiale in italiano propedeutico alla realizzazione di corsi sull'intelligenza artificiale - Slide | |
+| [Concetti di base della Reputation Economy](https://github.com/matteobaccan/CorsoReputationEconomy) | Concetti di base della Reputation Economy: cos'è e perchè dovremmo tenerne conto - Slide | |
+| [Concetti Reputazione Digitale](https://github.com/matteobaccan/CorsoReputazioneDigitale) | Concetti di base della Reputation digitale: quanto conta la nosra reputazione? - Slide | |
+| [Online IDE](https://github.com/matteobaccan/CorsoOnlineIDE) | Alternative a CodeSpace per l'edit di progetti su GitHiub - Slide | |
 
 ### My contributions
 
