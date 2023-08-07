@@ -35,7 +35,7 @@ Below is the material I have produced over time while studying various technolog
 | [Introduzione alla UX](https://github.com/matteobaccan/CorsoUX) | Materiale in italiano propedeutico alla realizzazione di corsi UX Design - Slide, domande di autovalutazione | |
 | [Introduzione alla AI](https://github.com/matteobaccan/CorsoAI) | Materiale in italiano propedeutico alla realizzazione di corsi sull'intelligenza artificiale - Slide | |
 | [Concetti di base della Reputation Economy](https://github.com/matteobaccan/CorsoReputationEconomy) | Concetti di base della Reputation Economy: cos'è e perchè dovremmo tenerne conto - Slide | |
-| [Concetti Reputazione Digitale](https://github.com/matteobaccan/CorsoReputazioneDigitale) | Concetti di base della Reputation digitale: quanto conta la nosra reputazione? - Slide | |
+| [Concetti Reputazione Digitale](https://github.com/matteobaccan/CorsoReputazioneDigitale) | Concetti di base della Reputation digitale: quanto conta la nostra reputazione? - Slide | |
 | [Come fare un rimprovero](https://github.com/matteobaccan/CorsoRimprovero) | Come fare un rimprovero? Impariamo da Josè Mourinho - Slide | |
 | [Online IDE](https://github.com/matteobaccan/CorsoOnlineIDE) | Alternative a CodeSpace per l'edit di progetti su GitHiub - Slide | |
 
