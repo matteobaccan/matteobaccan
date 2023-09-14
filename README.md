@@ -40,6 +40,14 @@ Below is the material I have produced over time while studying various technolog
 | [Come fare un rimprovero](https://github.com/matteobaccan/CorsoRimprovero) | Come fare un rimprovero? Impariamo da Josè Mourinho - Slide | |
 | [Online IDE](https://github.com/matteobaccan/CorsoOnlineIDE) | Alternative a CodeSpace per l'edit di progetti su GitHiub - Slide | |
 
+## My projects
+
+|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
+|-------------|-------------------|---|---|
+| [**Owner**](https://github.com/matteobaccan/owner) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/owner?color=green&logo=github&style=flat)](https://github.com/matteobaccan/owner/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/owner?style=flat&logo=github)](https://github.com/matteobaccan/owner/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/owner?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/owner/pulls?q=is%3Apr+is%3Aclosed)  |
+| [**HarbourJWT**](https://github.com/matteobaccan/HarbourJwt) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/HarbourJwt?color=green&logo=github&style=flat)](https://github.com/matteobaccan/HarbourJwt/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/HarbourJwt?style=flat&logo=github)](https://github.com/matteobaccan/HarbourJwt/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/HarbourJwt?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/HarbourJwt/pulls?q=is%3Apr+is%3Aclosed)  |
+
+
 ### My contributions
 
 ![Snake animation](https://github.com/matteobaccan/matteobaccan/blob/snake/github-contribution-grid-snake.svg)
