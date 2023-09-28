@@ -48,11 +48,16 @@ jobs:
           #plugin_people_limit: 28
           #plugin_people_size: 28
 
-      - uses: Platane/snk@master
+      - uses: Platane/snk@v3
         with:
-          github_user_name: matteobaccan
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake.svg
+
+  env:
+    # a github token is required to fetch the contribution calendar from github API
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}            
 
       - uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
