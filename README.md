@@ -52,12 +52,13 @@ Below is the material I have produced over time while studying various technolog
 
 ![Snake animation](https://github.com/matteobaccan/matteobaccan/blob/snake/github-contribution-grid-snake.svg)
 
+<!-- 
 ### More statistics
-
 ![Contribution](https://github-readme-streak-stats.herokuapp.com/?user=matteobaccan)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=matteobaccan)
 ![Activity](https://activity-graph.herokuapp.com/graph?username=matteobaccan&theme=github&count_private=true)
 ![Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matteobaccan&theme=github_dark)
+-->
 
 <!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=matteobaccan">
@@ -127,14 +128,19 @@ Below is the material I have produced over time while studying various technolog
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteobaccan&layout=compact)
 -->
 
+<!--
 [![matteobaccan's GitHub stats](https://stats.quine.sh/matteobaccan/github)](https://quine.sh/profile/matteobaccan)
+-->
 
 <!--
 <a href="https://quine.sh/profile/matteobaccan"><img src="https://stats.quine.sh/matteobaccan/github" alt="matteobaccan's GitHub stats" width="840px"></a>
 -->
 
-![Metrics](github-metrics.svg)
-
 ![My user statistics](images/userstats.svg)
 
+<!--
+![Metrics](github-metrics.svg)
+-->
+
 ![Profile views](https://gpvc.arturio.dev/matteobaccan)
+
