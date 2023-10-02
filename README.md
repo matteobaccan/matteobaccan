@@ -26,6 +26,7 @@ Below is the material I have produced over time while studying various technolog
 
 | Corso | Descrizione | Esempi |
 |-------|-------------|--|
+| [Programming Languages Of Tomorrow](https://github.com/matteobaccan/ProgrammingLanguagesOfTomorrow)| 2024 and Beyond: The Programming Languages of Tomorrow | |
 | [WebDesign](https://github.com/matteobaccan/CorsoWebDesign) | Materiale in italiano propedeutico alla realizzazione di corsi di WebDesign | |
 | [HTML](https://github.com/matteobaccan/CorsoHTML) | Materiale in italiano propedeutico alla realizzazione di corsi HTML5 - Slide ed esempi | [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/kNxEPO?sort_by=itemcreatedat) |
 | [HTMX](https://github.com/matteobaccan/CorsoHTMX) | Materiale in italiano propedeutico alla realizzazione di corsi HTMX - Slide ed esempi | IN PROGRESS  |
