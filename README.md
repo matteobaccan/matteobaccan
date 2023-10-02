@@ -135,4 +135,6 @@ Below is the material I have produced over time while studying various technolog
 
 ![Metrics](github-metrics.svg)
 
+![My user statistics](images/userstats.svg)
+
 ![Profile views](https://gpvc.arturio.dev/matteobaccan)
