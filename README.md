@@ -26,7 +26,6 @@ Below is the material I have produced over time while studying various technolog
 
 | Corso | Descrizione | Esempi |
 |-------|-------------|--|
-| [Programming Languages Of Tomorrow](https://github.com/matteobaccan/ProgrammingLanguagesOfTomorrow)| 2024 and Beyond: The Programming Languages of Tomorrow | |
 | [WebDesign](https://github.com/matteobaccan/CorsoWebDesign) | Materiale in italiano propedeutico alla realizzazione di corsi di WebDesign | |
 | [HTML](https://github.com/matteobaccan/CorsoHTML) | Materiale in italiano propedeutico alla realizzazione di corsi HTML5 - Slide ed esempi | [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/kNxEPO?sort_by=itemcreatedat) |
 | [HTMX](https://github.com/matteobaccan/CorsoHTMX) | Materiale in italiano propedeutico alla realizzazione di corsi HTMX - Slide ed esempi | IN PROGRESS  |
@@ -34,12 +33,6 @@ Below is the material I have produced over time while studying various technolog
 | [SASS](https://github.com/matteobaccan/CorsoSASS) | Materiale in italiano propedeutico alla realizzazione di corsi SASS - Slide ed esempi | |
 | [Introduzione a Javascript](https://github.com/matteobaccan/CorsoJavascript) | Materiale in italiano propedeutico alla realizzazione di corsi Javascript - Slide ed esempi | [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/rxYLax?sort_by=itemcreatedat) |
 | [jQuery](https://github.com/matteobaccan/CorsojQuery) | Materiale in italiano propedeutico alla realizzazione di corsi jQuery - Slide e esempi | [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/LPzxzo?sort_by=itemcreatedat) |
-| [Introduzione alla UX](https://github.com/matteobaccan/CorsoUX) | Materiale in italiano propedeutico alla realizzazione di corsi UX Design - Slide, domande di autovalutazione | |
-| [Introduzione alla AI](https://github.com/matteobaccan/CorsoAI) | Materiale in italiano propedeutico alla realizzazione di corsi sull'intelligenza artificiale - Slide | |
-| [Concetti di base della Reputation Economy](https://github.com/matteobaccan/CorsoReputationEconomy) | Concetti di base della Reputation Economy: cos'è e perché dovremmo tenerne conto - Slide | |
-| [Concetti Reputazione Digitale](https://github.com/matteobaccan/CorsoReputazioneDigitale) | Concetti di base della Reputation digitale: quanto conta la nostra reputazione? - Slide | |
-| [Come fare un rimprovero](https://github.com/matteobaccan/CorsoRimprovero) | Come fare un rimprovero? Impariamo da Josè Mourinho - Slide | |
-| [Online IDE](https://github.com/matteobaccan/CorsoOnlineIDE) | Alternative a CodeSpace per l'edit di progetti su GitHub - Slide | |
 
 ## My projects
 
@@ -47,7 +40,21 @@ Below is the material I have produced over time while studying various technolog
 |-------------|-------------------|---|---|
 | [**Owner**](https://github.com/matteobaccan/owner) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/owner?color=green&logo=github&style=flat)](https://github.com/matteobaccan/owner/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/owner?style=flat&logo=github)](https://github.com/matteobaccan/owner/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/owner?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/owner/pulls?q=is%3Apr+is%3Aclosed)  |
 | [**HarbourJWT**](https://github.com/matteobaccan/HarbourJwt) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/HarbourJwt?color=green&logo=github&style=flat)](https://github.com/matteobaccan/HarbourJwt/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/HarbourJwt?style=flat&logo=github)](https://github.com/matteobaccan/HarbourJwt/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/HarbourJwt?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/HarbourJwt/pulls?q=is%3Apr+is%3Aclosed)  |
+| [**SockRedirector**](https://github.com/matteobaccan/SockRedirector) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/SockRedirector?color=green&logo=github&style=flat)](https://github.com/matteobaccan/SockRedirector/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/SockRedirector?style=flat&logo=github)](https://github.com/matteobaccan/SockRedirector/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/SockRedirector?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/SockRedirector/pulls?q=is%3Apr+is%3Aclosed)  |
 
+## My slides
+
+Below is the material I have produced over time while studying various technologies, too short for use it for a course
+
+| Corso | Descrizione |
+|-------|-------------|
+| [Programming Languages Of Tomorrow](https://github.com/matteobaccan/ProgrammingLanguagesOfTomorrow)| 2024 and Beyond: The Programming Languages of Tomorrow |
+| [Introduzione alla UX](https://github.com/matteobaccan/CorsoUX) | Materiale in italiano propedeutico alla realizzazione di corsi UX Design - Slide, domande di autovalutazione |
+| [Introduzione alla AI](https://github.com/matteobaccan/CorsoAI) | Materiale in italiano propedeutico alla realizzazione di corsi sull'intelligenza artificiale - Slide |
+| [Concetti di base della Reputation Economy](https://github.com/matteobaccan/CorsoReputationEconomy) | Concetti di base della Reputation Economy: cos'è e perché dovremmo tenerne conto - Slide |
+| [Concetti Reputazione Digitale](https://github.com/matteobaccan/CorsoReputazioneDigitale) | Concetti di base della Reputation digitale: quanto conta la nostra reputazione? - Slide |
+| [Come fare un rimprovero](https://github.com/matteobaccan/CorsoRimprovero) | Come fare un rimprovero? Impariamo da Josè Mourinho - Slide |
+| [Online IDE](https://github.com/matteobaccan/CorsoOnlineIDE) | Alternative a CodeSpace per l'edit di progetti su GitHub - Slide |
 
 ### My contributions
 
