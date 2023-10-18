@@ -60,6 +60,10 @@ Below is the material I have produced over time while studying various technolog
 
 ![Snake animation](https://github.com/matteobaccan/matteobaccan/blob/snake/github-contribution-grid-snake.svg)
 
+### Hacktoberfest 2023
+
+[![An image of @matteobaccan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/matteobaccan)](https://holopin.io/@matteobaccan)
+
 <!-- 
 ### More statistics
 ![Contribution](https://github-readme-streak-stats.herokuapp.com/?user=matteobaccan)
