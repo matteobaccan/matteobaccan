@@ -67,6 +67,11 @@ Below is the material I have produced over time while studying various technolog
 ### Daily.DEV contribution
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Can You Become a Programmer After 40?](https://app.daily.dev/posts/owOpgTHU6?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
+- [Programmers who complete all tasks have not finished their workday](https://app.daily.dev/posts/fMMUy7g3T?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
+- [The Myth of the Full Stack Developer: an Uncomfortable Reality](https://app.daily.dev/posts/Ko9aavfST?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
+- [How to Know You’ve Become a Senior Programmer](https://app.daily.dev/posts/Z1LXHZySj?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
+- [The “Hardcore” Attitude of Programmers](https://app.daily.dev/posts/2CrohgmXQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 <!-- daily.dev BOOKMARKS:END -->
 
 ### Hacktoberfest 2023
