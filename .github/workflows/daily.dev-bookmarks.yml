@@ -15,3 +15,5 @@ jobs:
         with:
           comment_tag_name: "daily.dev BOOKMARKS"
           feed_list: "https://api.daily.dev/rss/b/dcc3ae63-c095-4794-a66d-cad76115e4e8"
+          max_post_count: 50
+          
