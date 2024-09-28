@@ -69,6 +69,7 @@ Below is the material I have produced over time while studying various technolog
 <a href="https://app.daily.dev/matteobaccan"><img src="https://api.daily.dev/devcards/v2/NhnqMXKwwlQ3hCqxXOiQG.png?r=i5h&type=default" width="356" alt="Matteo Baccan's Dev Card"/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Programmers as the New Mercenaries: The Evolution of Work in the IT Sector](https://app.daily.dev/posts/WB32OgVHo?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [Adopting New Frameworks Could Jeopardize Your Project](https://app.daily.dev/posts/HdrTAJBNH?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [The “Hardcore” Attitude of Programmers](https://app.daily.dev/posts/2CrohgmXQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [How to Know You’ve Become a Senior Programmer](https://app.daily.dev/posts/Z1LXHZySj?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
