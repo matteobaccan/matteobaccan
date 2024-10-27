@@ -35,7 +35,7 @@ Below is the material I have produced over time while studying various technolog
 | [Introduzione a Javascript](https://github.com/matteobaccan/CorsoJavascript) | Materiale in italiano propedeutico alla realizzazione di corsi Javascript - Slide ed esempi | [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/rxYLax?sort_by=itemcreatedat) |
 | [jQuery](https://github.com/matteobaccan/CorsojQuery) | Materiale in italiano propedeutico alla realizzazione di corsi jQuery - Slide e esempi | [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/LPzxzo?sort_by=itemcreatedat) |
 
-## My projects
+## Some of my projects
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
@@ -74,6 +74,8 @@ Inside this project you can find all the events I attended and the material I pr
 
 <a href="https://app.daily.dev/matteobaccan"><img src="https://api.daily.dev/devcards/v2/NhnqMXKwwlQ3hCqxXOiQG.png?r=i5h&type=default" width="356" alt="Matteo Baccan's Dev Card"/></a>
 
+All my articles for Codemotion Magazine, translated into English for Daily.DEV
+
 <!-- daily.dev BOOKMARKS:START -->
 - [Programmers as the New Mercenaries: The Evolution of Work in the IT Sector](https://app.daily.dev/posts/WB32OgVHo?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [Adopting New Frameworks Could Jeopardize Your Project](https://app.daily.dev/posts/HdrTAJBNH?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
@@ -84,7 +86,7 @@ Inside this project you can find all the events I attended and the material I pr
 - [Can You Become a Programmer After 40?](https://app.daily.dev/posts/owOpgTHU6?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 <!-- daily.dev BOOKMARKS:END -->
 
-### Hacktoberfest 2023-2024
+### Hacktoberfest 2023-2024 badges
 
 [![An image of @matteobaccan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/matteobaccan)](https://holopin.io/@matteobaccan)
 
