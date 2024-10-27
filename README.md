@@ -60,6 +60,12 @@ Below is the material I have produced over time while studying various technolog
 | [Online IDE](https://github.com/matteobaccan/CorsoOnlineIDE) | Alternative a CodeSpace per l'edit di progetti su GitHub - Slide |
 | [AI Generation](https://github.com/matteobaccan/AIGeneration) | Cosa possono fare per noi le attuali AI - Slide |
 
+## My Talks
+
+Inside this project you can find all the events I attended and the material I presented
+
+[All my talks](https://github.com/matteobaccan/Eventi)
+
 ### My contributions
 
 ![Snake animation](https://github.com/matteobaccan/matteobaccan/blob/snake/github-contribution-grid-snake.svg)
