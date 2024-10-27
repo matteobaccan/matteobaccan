@@ -57,7 +57,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}            
 
-      - uses: crazy-max/ghaction-github-pages@v4.0.0
+      - uses: crazy-max/ghaction-github-pages@v4.1.0
         with:
           target_branch: snake
           build_dir: dist
