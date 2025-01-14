@@ -77,6 +77,7 @@ Inside this project you can find all the events I attended and the material I pr
 All my articles for Codemotion Magazine, translated into English for Daily.DEV
 
 <!-- daily.dev BOOKMARKS:START -->
+- [How to tell if you’ve got what it takes: let’s do a code review](https://app.daily.dev/posts/Omobd3BgD?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [Losing a dev means losing a treasure](https://app.daily.dev/posts/oSrjP1UiT?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [From Junior to Senior Developer with ChatGPT](https://app.daily.dev/posts/sq71v8sFx?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [A Higher Salary Alone Is Not Enough to Motivate Change](https://app.daily.dev/posts/yxpA1fucn?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
