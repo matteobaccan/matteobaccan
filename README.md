@@ -24,16 +24,16 @@ Hi, I'm Matteo Baccan. I'm a software engineer from Italy.
 
 Below is the material I have produced over time while studying various technologies. It can be used as a support for course creation or as personal study material.
 
-| Corso | Descrizione | Esempi |
-|-------|-------------|--|
-| [WebDesign](https://github.com/matteobaccan/CorsoWebDesign) | Materiale in italiano propedeutico alla realizzazione di corsi di WebDesign | |
-| [WebDesign2](https://github.com/matteobaccan/CorsoWebDesign2) | Materiale in italiano propedeutico alla realizzazione di corsi avanzati di WebDesign | |
-| [HTML](https://github.com/matteobaccan/CorsoHTML) | Materiale in italiano propedeutico alla realizzazione di corsi HTML5 - Slide ed esempi | [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/kNxEPO?sort_by=itemcreatedat) |
-| [HTMX](https://github.com/matteobaccan/CorsoHTMX) | Materiale in italiano propedeutico alla realizzazione di corsi HTMX - Slide ed esempi | IN PROGRESS  |
-| [CSS](https://github.com/matteobaccan/CorsoCSS) | Materiale in italiano propedeutico alla realizzazione di corsi CSS3 - Slide ed esempi | [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/eJrMmO?sort_by=itemcreatedat) |
-| [SASS](https://github.com/matteobaccan/CorsoSASS) | Materiale in italiano propedeutico alla realizzazione di corsi SASS - Slide ed esempi | |
-| [Introduzione a Javascript](https://github.com/matteobaccan/CorsoJavascript) | Materiale in italiano propedeutico alla realizzazione di corsi Javascript - Slide ed esempi | [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/rxYLax?sort_by=itemcreatedat) |
-| [jQuery](https://github.com/matteobaccan/CorsojQuery) | Materiale in italiano propedeutico alla realizzazione di corsi jQuery - Slide e esempi | [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/LPzxzo?sort_by=itemcreatedat) |
+| Corso | Descrizione |
+|-------|-------------|
+| [WebDesign](https://github.com/matteobaccan/CorsoWebDesign) | Materiale in italiano propedeutico alla realizzazione di corsi di WebDesign |
+| [WebDesign2](https://github.com/matteobaccan/CorsoWebDesign2) | Materiale in italiano propedeutico alla realizzazione di corsi avanzati di WebDesign |
+| [HTML](https://github.com/matteobaccan/CorsoHTML) | Materiale in italiano propedeutico alla realizzazione di corsi HTML5 - Slide ed esempi <br/> [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/kNxEPO?sort_by=itemcreatedat) |
+| [HTMX](https://github.com/matteobaccan/CorsoHTMX) | Materiale in italiano propedeutico alla realizzazione di corsi HTMX - Slide ed esempi |
+| [CSS](https://github.com/matteobaccan/CorsoCSS) | Materiale in italiano propedeutico alla realizzazione di corsi CSS3 - Slide ed esempi <br/> [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/eJrMmO?sort_by=itemcreatedat) |
+| [SASS](https://github.com/matteobaccan/CorsoSASS) | Materiale in italiano propedeutico alla realizzazione di corsi SASS - Slide ed esempi | 
+| [Introduzione a Javascript](https://github.com/matteobaccan/CorsoJavascript) | Materiale in italiano propedeutico alla realizzazione di corsi Javascript - Slide ed esempi <br/> [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/rxYLax?sort_by=itemcreatedat) |
+| [jQuery](https://github.com/matteobaccan/CorsojQuery) | Materiale in italiano propedeutico alla realizzazione di corsi jQuery - Slide e esempi <br/> [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/LPzxzo?sort_by=itemcreatedat) |
 
 ## Some of my projects
 
