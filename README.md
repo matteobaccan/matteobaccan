@@ -20,13 +20,20 @@ Hi, I'm Matteo Baccan. I'm a software engineer from Italy.
 
 [🙋🏻 Ask a question](https://github.com/matteobaccan/matteobaccan/issues/new) You can ask anything but I might choose not to reply 😛
 
+## My books
+
+| Title | Description |
+|-------|-------------|
+| [Path To Senior Developer](https://github.com/matteobaccan/PathToSeniorDeveloper) | Il mio libro di riflessioni che ogni sviluppatore dovrebbe porsi per passare da Junior a Senior |
+| [Guida Pratica all'uso delle AI](https://github.com/matteobaccan/CorsoAIBook) | Libro in italiano per capire come usare le intelligenze artificiali nella vita di tutti i giorni |
+
+
 ## My courses
 
 Below is the material I have produced over time while studying various technologies. It can be used as a support for course creation or as personal study material.
 
 | Corso | Descrizione |
 |-------|-------------|
-| [Path To Senior Developer](https://github.com/matteobaccan/PathToSeniorDeveloper) | Il mio libro di riflessioni che ogni sviluppatore dovrebbe porsi per passare da Junior a Senior |
 | [WebDesign](https://github.com/matteobaccan/CorsoWebDesign) | Materiale in italiano propedeutico alla realizzazione di corsi di WebDesign |
 | [WebDesign2](https://github.com/matteobaccan/CorsoWebDesign2) | Materiale in italiano propedeutico alla realizzazione di corsi avanzati di WebDesign |
 | [HTML](https://github.com/matteobaccan/CorsoHTML) | Materiale in italiano propedeutico alla realizzazione di corsi HTML5 - Slide ed esempi <br/> [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/kNxEPO?sort_by=itemcreatedat) |
@@ -54,8 +61,7 @@ Below is the material I have produced over time while studying various technolog
 |-------|-------------|
 | [Programming Languages Of Tomorrow](https://github.com/matteobaccan/ProgrammingLanguagesOfTomorrow)| 2024 and Beyond: The Programming Languages of Tomorrow |
 | [Introduzione alla UX](https://github.com/matteobaccan/CorsoUX) | Materiale in italiano propedeutico alla realizzazione di corsi UX Design - Slide, domande di autovalutazione |
-| [Introduzione alla AI](https://github.com/matteobaccan/CorsoAI) | Materiale in italiano propedeutico alla realizzazione di corsi sull'intelligenza artificiale - Slide || 
-| [Guida Pratica all'uso delle AI](https://github.com/matteobaccan/CorsoAIBook) | Libro in italiano per capire come usare le intelligenze artificiali nella vita di tutti i giorni || 
+| [Introduzione alla AI](https://github.com/matteobaccan/CorsoAI) | Materiale in italiano propedeutico alla realizzazione di corsi sull'intelligenza artificiale - Slide | 
 | [Concetti di base della Reputation Economy](https://github.com/matteobaccan/CorsoReputationEconomy) | Concetti di base della Reputation Economy: cos'è e perché dovremmo tenerne conto - Slide |
 | [Concetti Reputazione Digitale](https://github.com/matteobaccan/CorsoReputazioneDigitale) | Concetti di base della Reputation digitale: quanto conta la nostra reputazione? - Slide |
 | [Come fare un rimprovero](https://github.com/matteobaccan/CorsoRimprovero) | Come fare un rimprovero? Impariamo da Josè Mourinho - Slide |
