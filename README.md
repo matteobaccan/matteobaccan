@@ -34,14 +34,16 @@ Below is the material I have produced over time while studying various technolog
 
 | Corso | Descrizione |
 |-------|-------------|
-| [WebDesign](https://github.com/matteobaccan/CorsoWebDesign) | Materiale in italiano propedeutico alla realizzazione di corsi di WebDesign |
-| [WebDesign2](https://github.com/matteobaccan/CorsoWebDesign2) | Materiale in italiano propedeutico alla realizzazione di corsi avanzati di WebDesign |
-| [HTML](https://github.com/matteobaccan/CorsoHTML) | Materiale in italiano propedeutico alla realizzazione di corsi HTML5 - Slide ed esempi <br/> [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/kNxEPO?sort_by=itemcreatedat) |
-| [HTMX](https://github.com/matteobaccan/CorsoHTMX) | Materiale in italiano propedeutico alla realizzazione di corsi HTMX - Slide ed esempi |
-| [CSS](https://github.com/matteobaccan/CorsoCSS) | Materiale in italiano propedeutico alla realizzazione di corsi CSS3 - Slide ed esempi <br/> [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/eJrMmO?sort_by=itemcreatedat) |
+| [WebDesign](https://github.com/matteobaccan/CorsoWebDesign) | Materiale in italiano del mio corso di WebDesign |
+| [WebDesign2](https://github.com/matteobaccan/CorsoWebDesign2) | Materiale in italiano del mio corso avanzato di WebDesign |
+| [HTML](https://github.com/matteobaccan/CorsoHTML) | Materiale in italiano del mio corso HTML5 - Slide ed esempi <br/> [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/kNxEPO?sort_by=itemcreatedat) |
+| [CSS](https://github.com/matteobaccan/CorsoCSS) | Materiale in italiano del mio corso CSS3 - Slide ed esempi <br/> [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/eJrMmO?sort_by=itemcreatedat) |
+| [Introduzione alla AI](https://github.com/matteobaccan/CorsoAI) | Materiale in italiano del mio corso sull'intelligenza artificiale - Slide | 
+| [Introduzione alla UX](https://github.com/matteobaccan/CorsoUX) | Materiale in italiano del mio corso di UX Design - Slide, domande di autovalutazione |
 | [SASS](https://github.com/matteobaccan/CorsoSASS) | Materiale in italiano propedeutico alla realizzazione di corsi SASS - Slide ed esempi | 
 | [Introduzione a Javascript](https://github.com/matteobaccan/CorsoJavascript) | Materiale in italiano propedeutico alla realizzazione di corsi Javascript - Slide ed esempi <br/> [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/rxYLax?sort_by=itemcreatedat) |
 | [jQuery](https://github.com/matteobaccan/CorsojQuery) | Materiale in italiano propedeutico alla realizzazione di corsi jQuery - Slide e esempi <br/> [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/LPzxzo?sort_by=itemcreatedat) |
+| [HTMX](https://github.com/matteobaccan/CorsoHTMX) | **in preparazione** Materiale in italiano propedeutico del mio corso HTMX - Slide ed esempi |
 
 ## Some of my projects
 
@@ -60,8 +62,6 @@ Below is the material I have produced over time while studying various technolog
 | Corso | Descrizione |
 |-------|-------------|
 | [Programming Languages Of Tomorrow](https://github.com/matteobaccan/ProgrammingLanguagesOfTomorrow)| 2024 and Beyond: The Programming Languages of Tomorrow |
-| [Introduzione alla UX](https://github.com/matteobaccan/CorsoUX) | Materiale in italiano propedeutico alla realizzazione di corsi UX Design - Slide, domande di autovalutazione |
-| [Introduzione alla AI](https://github.com/matteobaccan/CorsoAI) | Materiale in italiano propedeutico alla realizzazione di corsi sull'intelligenza artificiale - Slide | 
 | [Concetti di base della Reputation Economy](https://github.com/matteobaccan/CorsoReputationEconomy) | Concetti di base della Reputation Economy: cos'è e perché dovremmo tenerne conto - Slide |
 | [Concetti Reputazione Digitale](https://github.com/matteobaccan/CorsoReputazioneDigitale) | Concetti di base della Reputation digitale: quanto conta la nostra reputazione? - Slide |
 | [Come fare un rimprovero](https://github.com/matteobaccan/CorsoRimprovero) | Come fare un rimprovero? Impariamo da Josè Mourinho - Slide |
