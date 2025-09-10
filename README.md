@@ -86,6 +86,7 @@ Inside this project you can find all the events I attended and the material I pr
 All my articles for Codemotion Magazine, translated into English for Daily.DEV
 
 <!-- daily.dev BOOKMARKS:START -->
+- [The world of programming has changed and with it the way to become a programmer](https://app.daily.dev/posts/OV4nquIOS?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [Why Tech Startups Are Doomed to Die](https://app.daily.dev/posts/5Uqct5X2T?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [What if the weak link in programming is the programmer themself?](https://app.daily.dev/posts/8wJLMyzED?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [The strength of admitting you don’t know](https://app.daily.dev/posts/wDT21YdKh?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
