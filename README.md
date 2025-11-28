@@ -14,9 +14,11 @@ Hi, I'm Matteo Baccan. I'm a software engineer from Italy.
 
 [👦 Check out my website](https://www.baccan.it)
 
+<!--
 [📈 My Metrics](https://metrics.lecoq.io/about/matteobaccan)
+-->
 
-[🏆 My Resume](https://resume.github.io/?matteobaccan)
+[🏆 My GitHub Resume](https://resume.github.io/?matteobaccan)
 
 [🙋🏻 Ask a question](https://github.com/matteobaccan/matteobaccan/issues/new) You can ask anything but I might choose not to reply 😛
 
