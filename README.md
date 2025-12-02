@@ -88,6 +88,7 @@ Inside this project you can find all the events I attended and the material I pr
 All my articles for Codemotion Magazine, translated into English for Daily.DEV
 
 <!-- daily.dev BOOKMARKS:START -->
+- [A Great Programmer Removes, Doesn’t Add](https://app.daily.dev/posts/JwX9KlioE?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [Fundraising has become the end for startups, not the means to grow](https://app.daily.dev/posts/d7kQkRYzm?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [The world of programming has changed and with it the way to become a programmer](https://app.daily.dev/posts/OV4nquIOS?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [Why Tech Startups Are Doomed to Die](https://app.daily.dev/posts/5Uqct5X2T?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
