@@ -88,6 +88,7 @@ Inside this project you can find all the events I attended and the material I pr
 All my articles for Codemotion Magazine, translated into English for Daily.DEV
 
 <!-- daily.dev BOOKMARKS:START -->
+- [What if we were all becoming Borg? When AI becomes assimilation in software development](https://app.daily.dev/posts/pSm58vU9r?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [The Illusion of Speed in the AI Era](https://app.daily.dev/posts/8rRH5mF9H?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [A Great Programmer Removes, Doesn’t Add](https://app.daily.dev/posts/JwX9KlioE?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [Fundraising has become the end for startups, not the means to grow](https://app.daily.dev/posts/d7kQkRYzm?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
