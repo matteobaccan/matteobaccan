@@ -110,7 +110,7 @@ All my articles for Codemotion Magazine, translated into English for Daily.DEV
 - [Can You Become a Programmer After 40?](https://app.daily.dev/posts/owOpgTHU6?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 <!-- daily.dev BOOKMARKS:END -->
 
-### Hacktoberfest 2023-2024 badges
+### Hacktoberfest 2023-2025 badges
 
 [![An image of @matteobaccan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/matteobaccan)](https://holopin.io/@matteobaccan)
 
