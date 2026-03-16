@@ -88,6 +88,7 @@ Inside this project you can find all the events I attended and the material I pr
 All my articles for Codemotion Magazine, translated into English for Daily.DEV
 
 <!-- daily.dev BOOKMARKS:START -->
+- [AI Predicts Music Contest Winner: Reality Disagrees](https://app.daily.dev/posts/8Z8lJgKfQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [The Engineering of the Possible: Beyond the “Best Practices” Dogma](https://app.daily.dev/posts/JbLJZq9XC?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [What if we were all becoming Borg? When AI becomes assimilation in software development](https://app.daily.dev/posts/pSm58vU9r?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [The Illusion of Speed in the AI Era](https://app.daily.dev/posts/8rRH5mF9H?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
@@ -107,7 +108,6 @@ All my articles for Codemotion Magazine, translated into English for Daily.DEV
 - [How to Know You’ve Become a Senior Programmer](https://app.daily.dev/posts/Z1LXHZySj?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [The Myth of the Full Stack Developer: an Uncomfortable Reality](https://app.daily.dev/posts/Ko9aavfST?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [Programmers who complete all tasks have not finished their workday](https://app.daily.dev/posts/fMMUy7g3T?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
-- [Can You Become a Programmer After 40?](https://app.daily.dev/posts/owOpgTHU6?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 <!-- daily.dev BOOKMARKS:END -->
 
 ### Hacktoberfest 2023-2025 badges
