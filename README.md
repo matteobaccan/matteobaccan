@@ -132,6 +132,10 @@ All my articles for Codemotion Magazine, translated into English for Daily.DEV
 <!--https://simpleicons.org/?q=raspb -->
 <!-- https://shields.io/ -->
 
+### Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=matteobaccan)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### 💻 Languages I have used
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
