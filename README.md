@@ -88,6 +88,7 @@ Inside this project you can find all the events I attended and the material I pr
 All my articles for Codemotion Magazine, translated into English for Daily.DEV
 
 <!-- daily.dev BOOKMARKS:START -->
+- [HTTP QUERY: the method that was missing between GET and POST](https://daily.dev/posts/mWDApVZ8T?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [De Crescenzo’s choice](https://daily.dev/posts/oQmN1ZmnL?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [Is the human the bug or the feature of AI development?](https://daily.dev/posts/0xSCSqnwS?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [AI Predicts Music Contest Winner: Reality Disagrees](https://daily.dev/posts/8Z8lJgKfQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
@@ -107,7 +108,6 @@ All my articles for Codemotion Magazine, translated into English for Daily.DEV
 - [Programmers as the New Mercenaries: The Evolution of Work in the IT Sector](https://daily.dev/posts/WB32OgVHo?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [Adopting New Frameworks Could Jeopardize Your Project](https://daily.dev/posts/HdrTAJBNH?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [The “Hardcore” Attitude of Programmers](https://daily.dev/posts/2CrohgmXQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
-- [How to Know You’ve Become a Senior Programmer](https://daily.dev/posts/Z1LXHZySj?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 <!-- daily.dev BOOKMARKS:END -->
 
 ### Hacktoberfest 2023-2025 badges
