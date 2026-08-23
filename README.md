@@ -22,6 +22,24 @@ Hi, I'm Matteo Baccan. I'm a software engineer from Italy.
 
 [🙋🏻 Ask a question](https://github.com/matteobaccan/matteobaccan/issues/new) You can ask anything but I might choose not to reply 😛
 
+## Some of my projects
+
+All my repositories with at least 5 stars
+
+| Project :octocat: | Stars :star: | Issues :bug: | Open PRs :bell: | Closed PRs :fire: |
+|---|---|---|---|---|
+| [**Owner**](https://github.com/matteobaccan/owner) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/owner?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/owner/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/owner?color=green&logo=github&style=flat)](https://github.com/matteobaccan/owner/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/owner?style=flat&logo=github)](https://github.com/matteobaccan/owner/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/owner?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/owner/pulls?q=is%3Apr+is%3Aclosed) |
+| [**MultiRipper**](https://github.com/matteobaccan/MultiRipper) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/MultiRipper?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/MultiRipper/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/MultiRipper?color=green&logo=github&style=flat)](https://github.com/matteobaccan/MultiRipper/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/MultiRipper?style=flat&logo=github)](https://github.com/matteobaccan/MultiRipper/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/MultiRipper?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/MultiRipper/pulls?q=is%3Apr+is%3Aclosed) |
+| [**HTML2POP3**](https://github.com/matteobaccan/html2pop3) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/html2pop3?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/html2pop3/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/html2pop3?color=green&logo=github&style=flat)](https://github.com/matteobaccan/html2pop3/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/html2pop3?style=flat&logo=github)](https://github.com/matteobaccan/html2pop3/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/html2pop3?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/html2pop3/pulls?q=is%3Apr+is%3Aclosed) |
+| [**SockRedirector**](https://github.com/matteobaccan/SockRedirector) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/SockRedirector?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/SockRedirector/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/SockRedirector?color=green&logo=github&style=flat)](https://github.com/matteobaccan/SockRedirector/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/SockRedirector?style=flat&logo=github)](https://github.com/matteobaccan/SockRedirector/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/SockRedirector?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/SockRedirector/pulls?q=is%3Apr+is%3Aclosed) |
+| [**HarbourJWT**](https://github.com/matteobaccan/HarbourJwt) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/HarbourJwt?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/HarbourJwt/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/HarbourJwt?color=green&logo=github&style=flat)](https://github.com/matteobaccan/HarbourJwt/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/HarbourJwt?style=flat&logo=github)](https://github.com/matteobaccan/HarbourJwt/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/HarbourJwt?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/HarbourJwt/pulls?q=is%3Apr+is%3Aclosed) |
+| [**Guida Pratica all'uso delle AI**](https://github.com/matteobaccan/CorsoAIBook) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/CorsoAIBook?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/CorsoAIBook/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/CorsoAIBook?color=green&logo=github&style=flat)](https://github.com/matteobaccan/CorsoAIBook/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/CorsoAIBook?style=flat&logo=github)](https://github.com/matteobaccan/CorsoAIBook/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/CorsoAIBook?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/CorsoAIBook/pulls?q=is%3Apr+is%3Aclosed) |
+| [**Corso AI**](https://github.com/matteobaccan/CorsoAI) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/CorsoAI?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/CorsoAI/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/CorsoAI?color=green&logo=github&style=flat)](https://github.com/matteobaccan/CorsoAI/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/CorsoAI?style=flat&logo=github)](https://github.com/matteobaccan/CorsoAI/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/CorsoAI?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/CorsoAI/pulls?q=is%3Apr+is%3Aclosed) |
+| [**PassiveCooker**](https://github.com/matteobaccan/PassiveCooker) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/PassiveCooker?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/PassiveCooker/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/PassiveCooker?color=green&logo=github&style=flat)](https://github.com/matteobaccan/PassiveCooker/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/PassiveCooker?style=flat&logo=github)](https://github.com/matteobaccan/PassiveCooker/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/PassiveCooker?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/PassiveCooker/pulls?q=is%3Apr+is%3Aclosed) |
+| [**Corso HTML**](https://github.com/matteobaccan/CorsoHTML) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/CorsoHTML?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/CorsoHTML/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/CorsoHTML?color=green&logo=github&style=flat)](https://github.com/matteobaccan/CorsoHTML/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/CorsoHTML?style=flat&logo=github)](https://github.com/matteobaccan/CorsoHTML/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/CorsoHTML?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/CorsoHTML/pulls?q=is%3Apr+is%3Aclosed) |
+| [**Cheshire Cat API Client Java**](https://github.com/matteobaccan/cheshire-cat-api-client-java) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/cheshire-cat-api-client-java?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/cheshire-cat-api-client-java/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/cheshire-cat-api-client-java?color=green&logo=github&style=flat)](https://github.com/matteobaccan/cheshire-cat-api-client-java/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/cheshire-cat-api-client-java?style=flat&logo=github)](https://github.com/matteobaccan/cheshire-cat-api-client-java/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/cheshire-cat-api-client-java?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/cheshire-cat-api-client-java/pulls?q=is%3Apr+is%3Aclosed) |
+| [**LinkedInCringe**](https://github.com/matteobaccan/LinkedInCringe) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/LinkedInCringe?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/LinkedInCringe/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/LinkedInCringe?color=green&logo=github&style=flat)](https://github.com/matteobaccan/LinkedInCringe/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/LinkedInCringe?style=flat&logo=github)](https://github.com/matteobaccan/LinkedInCringe/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/LinkedInCringe?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/LinkedInCringe/pulls?q=is%3Apr+is%3Aclosed) |
+
 ## My open source contributions
 
 Projects with more than 1000 stars where I have contributed with at least one merged pull request
@@ -55,22 +73,96 @@ Projects with more than 1000 stars where I have contributed with at least one me
 | [**kairichard/awesome-nocode-lowcode**](https://github.com/kairichard/awesome-nocode-lowcode) | [1](https://github.com/kairichard/awesome-nocode-lowcode/pulls?q=is%3Apr+author%3Amatteobaccan+is%3Amerged) | [![GitHub stars](https://img.shields.io/github/stars/kairichard/awesome-nocode-lowcode?color=yellow&logo=github&style=flat)](https://github.com/kairichard/awesome-nocode-lowcode/stargazers) |
 | [**microsoft/mssql-jdbc**](https://github.com/microsoft/mssql-jdbc) | [1](https://github.com/microsoft/mssql-jdbc/pulls?q=is%3Apr+author%3Amatteobaccan+is%3Amerged) | [![GitHub stars](https://img.shields.io/github/stars/microsoft/mssql-jdbc?color=yellow&logo=github&style=flat)](https://github.com/microsoft/mssql-jdbc/stargazers) |
 
-## Some of my projects
+## My AI Skills
 
-All my repositories with at least 5 stars
+Agent skills I have created, ready to be used with Claude and other AI agents
 
-| Project :octocat: | Stars :star: | Issues :bug: | Open PRs :bell: | Closed PRs :fire: |
-|---|---|---|---|---|
-| [**Owner**](https://github.com/matteobaccan/owner) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/owner?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/owner/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/owner?color=green&logo=github&style=flat)](https://github.com/matteobaccan/owner/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/owner?style=flat&logo=github)](https://github.com/matteobaccan/owner/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/owner?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/owner/pulls?q=is%3Apr+is%3Aclosed) |
-| [**MultiRipper**](https://github.com/matteobaccan/MultiRipper) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/MultiRipper?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/MultiRipper/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/MultiRipper?color=green&logo=github&style=flat)](https://github.com/matteobaccan/MultiRipper/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/MultiRipper?style=flat&logo=github)](https://github.com/matteobaccan/MultiRipper/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/MultiRipper?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/MultiRipper/pulls?q=is%3Apr+is%3Aclosed) |
-| [**HTML2POP3**](https://github.com/matteobaccan/html2pop3) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/html2pop3?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/html2pop3/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/html2pop3?color=green&logo=github&style=flat)](https://github.com/matteobaccan/html2pop3/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/html2pop3?style=flat&logo=github)](https://github.com/matteobaccan/html2pop3/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/html2pop3?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/html2pop3/pulls?q=is%3Apr+is%3Aclosed) |
-| [**SockRedirector**](https://github.com/matteobaccan/SockRedirector) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/SockRedirector?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/SockRedirector/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/SockRedirector?color=green&logo=github&style=flat)](https://github.com/matteobaccan/SockRedirector/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/SockRedirector?style=flat&logo=github)](https://github.com/matteobaccan/SockRedirector/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/SockRedirector?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/SockRedirector/pulls?q=is%3Apr+is%3Aclosed) |
-| [**HarbourJWT**](https://github.com/matteobaccan/HarbourJwt) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/HarbourJwt?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/HarbourJwt/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/HarbourJwt?color=green&logo=github&style=flat)](https://github.com/matteobaccan/HarbourJwt/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/HarbourJwt?style=flat&logo=github)](https://github.com/matteobaccan/HarbourJwt/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/HarbourJwt?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/HarbourJwt/pulls?q=is%3Apr+is%3Aclosed) |
-| [**Guida Pratica all'uso delle AI**](https://github.com/matteobaccan/CorsoAIBook) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/CorsoAIBook?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/CorsoAIBook/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/CorsoAIBook?color=green&logo=github&style=flat)](https://github.com/matteobaccan/CorsoAIBook/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/CorsoAIBook?style=flat&logo=github)](https://github.com/matteobaccan/CorsoAIBook/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/CorsoAIBook?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/CorsoAIBook/pulls?q=is%3Apr+is%3Aclosed) |
-| [**Corso AI**](https://github.com/matteobaccan/CorsoAI) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/CorsoAI?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/CorsoAI/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/CorsoAI?color=green&logo=github&style=flat)](https://github.com/matteobaccan/CorsoAI/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/CorsoAI?style=flat&logo=github)](https://github.com/matteobaccan/CorsoAI/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/CorsoAI?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/CorsoAI/pulls?q=is%3Apr+is%3Aclosed) |
-| [**PassiveCooker**](https://github.com/matteobaccan/PassiveCooker) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/PassiveCooker?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/PassiveCooker/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/PassiveCooker?color=green&logo=github&style=flat)](https://github.com/matteobaccan/PassiveCooker/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/PassiveCooker?style=flat&logo=github)](https://github.com/matteobaccan/PassiveCooker/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/PassiveCooker?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/PassiveCooker/pulls?q=is%3Apr+is%3Aclosed) |
-| [**Corso HTML**](https://github.com/matteobaccan/CorsoHTML) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/CorsoHTML?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/CorsoHTML/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/CorsoHTML?color=green&logo=github&style=flat)](https://github.com/matteobaccan/CorsoHTML/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/CorsoHTML?style=flat&logo=github)](https://github.com/matteobaccan/CorsoHTML/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/CorsoHTML?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/CorsoHTML/pulls?q=is%3Apr+is%3Aclosed) |
-| [**Cheshire Cat API Client Java**](https://github.com/matteobaccan/cheshire-cat-api-client-java) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/cheshire-cat-api-client-java?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/cheshire-cat-api-client-java/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/cheshire-cat-api-client-java?color=green&logo=github&style=flat)](https://github.com/matteobaccan/cheshire-cat-api-client-java/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/cheshire-cat-api-client-java?style=flat&logo=github)](https://github.com/matteobaccan/cheshire-cat-api-client-java/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/cheshire-cat-api-client-java?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/cheshire-cat-api-client-java/pulls?q=is%3Apr+is%3Aclosed) |
+| Skill | Descrizione |
+|-------|-------------|
+| [LinkedInCringe](https://github.com/matteobaccan/LinkedInCringe) | Skill per la creazione di storie Cringe per LinkedIn |
+| [Scrittura Comica](https://github.com/matteobaccan/CorsoScritturaComica) | Skill per la scrittura di battute e monologhi comici, basata sulle tecniche del corso di Federico Basso |
+| [StandUpComedy](https://github.com/matteobaccan/StandUpComedy) | Skill per la scrittura di monologhi di Stand Up Comedy |
+
+## My books
+
+| Title | Description |
+|-------|-------------|
+| [Path To Senior Developer](https://github.com/matteobaccan/PathToSeniorDeveloper) | Il mio libro di riflessioni che ogni sviluppatore dovrebbe porsi per passare da Junior a Senior |
+| [Guida Pratica all'uso delle AI](https://github.com/matteobaccan/CorsoAIBook) | Libro in italiano per capire come usare le intelligenze artificiali nella vita di tutti i giorni |
+
+## My courses
+
+Below is the material I have produced over time while studying various technologies. It can be used as a support for course creation or as personal study material.
+
+| Corso | Descrizione |
+|-------|-------------|
+| [WebDesign](https://github.com/matteobaccan/CorsoWebDesign) | Materiale in italiano del mio corso di WebDesign |
+| [WebDesign2](https://github.com/matteobaccan/CorsoWebDesign2) | Materiale in italiano del mio corso avanzato di WebDesign |
+| [HTML](https://github.com/matteobaccan/CorsoHTML) | Materiale in italiano del mio corso HTML5 - Slide ed esempi <br/> [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/kNxEPO?sort_by=itemcreatedat) |
+| [CSS](https://github.com/matteobaccan/CorsoCSS) | Materiale in italiano del mio corso CSS3 - Slide ed esempi <br/> [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/eJrMmO?sort_by=itemcreatedat) |
+| [WCAG](https://github.com/matteobaccan/CorsoWCAG) | Materiale in italiano del mio corso WCAG - Slide ed esempi |
+| [Introduzione alla AI](https://github.com/matteobaccan/CorsoAI) | Materiale in italiano del mio corso sull'intelligenza artificiale - Slide |
+| [Introduzione alla UX](https://github.com/matteobaccan/CorsoUX) | Materiale in italiano del mio corso di UX Design - Slide, domande di autovalutazione |
+| [SASS](https://github.com/matteobaccan/CorsoSASS) | Materiale in italiano propedeutico alla realizzazione di corsi SASS - Slide ed esempi |
+| [Introduzione a Javascript](https://github.com/matteobaccan/CorsoJavascript) | Materiale in italiano propedeutico alla realizzazione di corsi Javascript - Slide ed esempi <br/> [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/rxYLax?sort_by=itemcreatedat) |
+| [jQuery](https://github.com/matteobaccan/CorsojQuery) | Materiale in italiano propedeutico alla realizzazione di corsi jQuery - Slide ed esempi <br/> [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/LPzxzo?sort_by=itemcreatedat) |
+| [HTMX](https://github.com/matteobaccan/CorsoHTMX) | **in preparazione** Materiale in italiano propedeutico del mio corso HTMX - Slide ed esempi |
+| [Scrittura Comica](https://github.com/matteobaccan/CorsoScritturaComica) | Appunti in italiano del corso di scrittura comica di Federico Basso - Slide |
+
+## My slides
+
+Below is the material I have produced over time while studying various technologies, too short to be used for a course
+
+| Corso | Descrizione |
+|-------|-------------|
+| [Programming Languages Of Tomorrow](https://github.com/matteobaccan/ProgrammingLanguagesOfTomorrow)| 2024 and Beyond: The Programming Languages of Tomorrow |
+| [Concetti di base della Reputation Economy](https://github.com/matteobaccan/CorsoReputationEconomy) | Concetti di base della Reputation Economy: cos'è e perché dovremmo tenerne conto - Slide |
+| [Concetti Reputazione Digitale](https://github.com/matteobaccan/CorsoReputazioneDigitale) | Concetti di base della Reputation digitale: quanto conta la nostra reputazione? - Slide |
+| [Come fare un rimprovero](https://github.com/matteobaccan/CorsoRimprovero) | Come fare un rimprovero? Impariamo da José Mourinho - Slide |
+| [Online IDE](https://github.com/matteobaccan/CorsoOnlineIDE) | Alternative a Codespaces per l'edit di progetti su GitHub - Slide |
+| [AI Generation](https://github.com/matteobaccan/AIGeneration) | Cosa possono fare per noi le attuali AI - Slide |
+
+## My Talks
+
+Inside this project you can find all the events I attended and the material I presented
+
+[All my talks](https://github.com/matteobaccan/Eventi)
+
+## My articles
+
+### Daily.DEV contribution
+
+<a href="https://app.daily.dev/matteobaccan"><img src="https://api.daily.dev/devcards/v2/NhnqMXKwwlQ3hCqxXOiQG.png?r=i5h&type=default" width="356" alt="Matteo Baccan's Dev Card"/></a>
+
+All my articles for Codemotion Magazine, translated into English for Daily.DEV
+
+<details>
+<summary>Read the latest articles</summary>
+
+<!-- daily.dev BOOKMARKS:START -->
+- [HTTP QUERY: the method that was missing between GET and POST](https://daily.dev/posts/mWDApVZ8T?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
+- [De Crescenzo’s choice](https://daily.dev/posts/oQmN1ZmnL?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
+- [Is the human the bug or the feature of AI development?](https://daily.dev/posts/0xSCSqnwS?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
+- [AI Predicts Music Contest Winner: Reality Disagrees](https://daily.dev/posts/8Z8lJgKfQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
+- [The Engineering of the Possible: Beyond the “Best Practices” Dogma](https://daily.dev/posts/JbLJZq9XC?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
+- [What if we were all becoming Borg? When AI becomes assimilation in software development](https://daily.dev/posts/pSm58vU9r?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
+- [The Illusion of Speed in the AI Era](https://daily.dev/posts/8rRH5mF9H?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
+- [A Great Programmer Removes, Doesn’t Add](https://daily.dev/posts/JwX9KlioE?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
+- [Fundraising has become the end for startups, not the means to grow](https://daily.dev/posts/d7kQkRYzm?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
+- [The world of programming has changed and with it the way to become a programmer](https://daily.dev/posts/OV4nquIOS?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
+- [Why Tech Startups Are Doomed to Die](https://daily.dev/posts/5Uqct5X2T?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
+- [What if the weak link in programming is the programmer themself?](https://daily.dev/posts/8wJLMyzED?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
+- [The strength of admitting you don’t know](https://daily.dev/posts/wDT21YdKh?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
+- [How to tell if you’ve got what it takes: let’s do a code review](https://daily.dev/posts/Omobd3BgD?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
+- [Losing a dev means losing a treasure](https://daily.dev/posts/oSrjP1UiT?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
+- [From Junior to Senior Developer with ChatGPT](https://daily.dev/posts/sq71v8sFx?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
+- [A Higher Salary Alone Is Not Enough to Motivate Change](https://daily.dev/posts/yxpA1fucn?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
+- [Programmers as the New Mercenaries: The Evolution of Work in the IT Sector](https://daily.dev/posts/WB32OgVHo?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
+- [Adopting New Frameworks Could Jeopardize Your Project](https://daily.dev/posts/HdrTAJBNH?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
+- [The “Hardcore” Attitude of Programmers](https://daily.dev/posts/2CrohgmXQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
+<!-- daily.dev BOOKMARKS:END -->
+
+</details>
 
 ## Skills
 
@@ -154,86 +246,6 @@ Languages I have tried out in my [boilerplate collection](https://github.com/mat
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=Raspberry%20Pi&logoColor=C51A4A)
 ![MacOS](http://img.shields.io/badge/-Mac%20OS-333333?style=flat&logo=apple)
 ![Windows](http://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
-
-## My books
-
-| Title | Description |
-|-------|-------------|
-| [Path To Senior Developer](https://github.com/matteobaccan/PathToSeniorDeveloper) | Il mio libro di riflessioni che ogni sviluppatore dovrebbe porsi per passare da Junior a Senior |
-| [Guida Pratica all'uso delle AI](https://github.com/matteobaccan/CorsoAIBook) | Libro in italiano per capire come usare le intelligenze artificiali nella vita di tutti i giorni |
-
-## My courses
-
-Below is the material I have produced over time while studying various technologies. It can be used as a support for course creation or as personal study material.
-
-| Corso | Descrizione |
-|-------|-------------|
-| [WebDesign](https://github.com/matteobaccan/CorsoWebDesign) | Materiale in italiano del mio corso di WebDesign |
-| [WebDesign2](https://github.com/matteobaccan/CorsoWebDesign2) | Materiale in italiano del mio corso avanzato di WebDesign |
-| [HTML](https://github.com/matteobaccan/CorsoHTML) | Materiale in italiano del mio corso HTML5 - Slide ed esempi <br/> [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/kNxEPO?sort_by=itemcreatedat) |
-| [CSS](https://github.com/matteobaccan/CorsoCSS) | Materiale in italiano del mio corso CSS3 - Slide ed esempi <br/> [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/eJrMmO?sort_by=itemcreatedat) |
-| [WCAG](https://github.com/matteobaccan/CorsoWCAG) | Materiale in italiano del mio corso WCAG - Slide ed esempi |
-| [Introduzione alla AI](https://github.com/matteobaccan/CorsoAI) | Materiale in italiano del mio corso sull'intelligenza artificiale - Slide |
-| [Introduzione alla UX](https://github.com/matteobaccan/CorsoUX) | Materiale in italiano del mio corso di UX Design - Slide, domande di autovalutazione |
-| [SASS](https://github.com/matteobaccan/CorsoSASS) | Materiale in italiano propedeutico alla realizzazione di corsi SASS - Slide ed esempi |
-| [Introduzione a Javascript](https://github.com/matteobaccan/CorsoJavascript) | Materiale in italiano propedeutico alla realizzazione di corsi Javascript - Slide ed esempi <br/> [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/rxYLax?sort_by=itemcreatedat) |
-| [jQuery](https://github.com/matteobaccan/CorsojQuery) | Materiale in italiano propedeutico alla realizzazione di corsi jQuery - Slide ed esempi <br/> [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/LPzxzo?sort_by=itemcreatedat) |
-| [HTMX](https://github.com/matteobaccan/CorsoHTMX) | **in preparazione** Materiale in italiano propedeutico del mio corso HTMX - Slide ed esempi |
-
-## My slides
-
-Below is the material I have produced over time while studying various technologies, too short to be used for a course
-
-| Corso | Descrizione |
-|-------|-------------|
-| [Programming Languages Of Tomorrow](https://github.com/matteobaccan/ProgrammingLanguagesOfTomorrow)| 2024 and Beyond: The Programming Languages of Tomorrow |
-| [Concetti di base della Reputation Economy](https://github.com/matteobaccan/CorsoReputationEconomy) | Concetti di base della Reputation Economy: cos'è e perché dovremmo tenerne conto - Slide |
-| [Concetti Reputazione Digitale](https://github.com/matteobaccan/CorsoReputazioneDigitale) | Concetti di base della Reputation digitale: quanto conta la nostra reputazione? - Slide |
-| [Come fare un rimprovero](https://github.com/matteobaccan/CorsoRimprovero) | Come fare un rimprovero? Impariamo da José Mourinho - Slide |
-| [Online IDE](https://github.com/matteobaccan/CorsoOnlineIDE) | Alternative a Codespaces per l'edit di progetti su GitHub - Slide |
-| [AI Generation](https://github.com/matteobaccan/AIGeneration) | Cosa possono fare per noi le attuali AI - Slide |
-
-## My Talks
-
-Inside this project you can find all the events I attended and the material I presented
-
-[All my talks](https://github.com/matteobaccan/Eventi)
-
-## My articles
-
-### Daily.DEV contribution
-
-<a href="https://app.daily.dev/matteobaccan"><img src="https://api.daily.dev/devcards/v2/NhnqMXKwwlQ3hCqxXOiQG.png?r=i5h&type=default" width="356" alt="Matteo Baccan's Dev Card"/></a>
-
-All my articles for Codemotion Magazine, translated into English for Daily.DEV
-
-<details>
-<summary>Read the latest articles</summary>
-
-<!-- daily.dev BOOKMARKS:START -->
-- [HTTP QUERY: the method that was missing between GET and POST](https://daily.dev/posts/mWDApVZ8T?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
-- [De Crescenzo’s choice](https://daily.dev/posts/oQmN1ZmnL?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
-- [Is the human the bug or the feature of AI development?](https://daily.dev/posts/0xSCSqnwS?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
-- [AI Predicts Music Contest Winner: Reality Disagrees](https://daily.dev/posts/8Z8lJgKfQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
-- [The Engineering of the Possible: Beyond the “Best Practices” Dogma](https://daily.dev/posts/JbLJZq9XC?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
-- [What if we were all becoming Borg? When AI becomes assimilation in software development](https://daily.dev/posts/pSm58vU9r?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
-- [The Illusion of Speed in the AI Era](https://daily.dev/posts/8rRH5mF9H?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
-- [A Great Programmer Removes, Doesn’t Add](https://daily.dev/posts/JwX9KlioE?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
-- [Fundraising has become the end for startups, not the means to grow](https://daily.dev/posts/d7kQkRYzm?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
-- [The world of programming has changed and with it the way to become a programmer](https://daily.dev/posts/OV4nquIOS?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
-- [Why Tech Startups Are Doomed to Die](https://daily.dev/posts/5Uqct5X2T?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
-- [What if the weak link in programming is the programmer themself?](https://daily.dev/posts/8wJLMyzED?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
-- [The strength of admitting you don’t know](https://daily.dev/posts/wDT21YdKh?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
-- [How to tell if you’ve got what it takes: let’s do a code review](https://daily.dev/posts/Omobd3BgD?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
-- [Losing a dev means losing a treasure](https://daily.dev/posts/oSrjP1UiT?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
-- [From Junior to Senior Developer with ChatGPT](https://daily.dev/posts/sq71v8sFx?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
-- [A Higher Salary Alone Is Not Enough to Motivate Change](https://daily.dev/posts/yxpA1fucn?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
-- [Programmers as the New Mercenaries: The Evolution of Work in the IT Sector](https://daily.dev/posts/WB32OgVHo?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
-- [Adopting New Frameworks Could Jeopardize Your Project](https://daily.dev/posts/HdrTAJBNH?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
-- [The “Hardcore” Attitude of Programmers](https://daily.dev/posts/2CrohgmXQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
-<!-- daily.dev BOOKMARKS:END -->
-
-</details>
 
 ## Stats and badges
 
