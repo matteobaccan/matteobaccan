@@ -82,6 +82,7 @@ Agent skills I have created, ready to be used with Claude and other AI agents
 | [LinkedInCringe](https://github.com/matteobaccan/LinkedInCringe) | Skill per la creazione di storie Cringe per LinkedIn |
 | [Scrittura Comica](https://github.com/matteobaccan/CorsoScritturaComica) | Skill per la scrittura di battute e monologhi comici, basata sulle tecniche del corso di Federico Basso |
 | [StandUpComedy](https://github.com/matteobaccan/StandUpComedy) | Skill per la scrittura di monologhi di Stand Up Comedy |
+| [Static Site Optimizer](https://github.com/matteobaccan/static-site-optimizer) | Skill per l'analisi e l'ottimizzazione di siti statici: performance, SEO, accessibilità e best practice |
 
 ## My books
 
