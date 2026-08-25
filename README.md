@@ -79,6 +79,7 @@ Agent skills I have created, ready to be used with Claude and other AI agents
 
 | Skill | Descrizione |
 |-------|-------------|
+| [AgentReady](https://github.com/matteobaccan/AgentReady) | Skill per valutare quanto un sito è pronto per gli AI agent: 30 controlli, punteggio da 0 a 5 e generazione di `robots.txt`, `llms.txt`, file `.well-known/` e regole server |
 | [LinkedInCringe](https://github.com/matteobaccan/LinkedInCringe) | Skill per la creazione di storie Cringe per LinkedIn |
 | [Scrittura Comica](https://github.com/matteobaccan/CorsoScritturaComica) | Skill per la scrittura di battute e monologhi comici, basata sulle tecniche del corso di Federico Basso |
 | [StandUpComedy](https://github.com/matteobaccan/StandUpComedy) | Skill per la scrittura di monologhi di Stand Up Comedy |
