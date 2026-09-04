@@ -142,6 +142,7 @@ All my articles for Codemotion Magazine, translated into English for Daily.DEV
 <summary>Read the latest articles</summary>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [The end of the prompt era: why the future of AI development belongs to those who write specs &lpar;SDD&rpar;](https://daily.dev/posts/t9kApfPm2?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [HTTP QUERY: the method that was missing between GET and POST](https://daily.dev/posts/mWDApVZ8T?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [De Crescenzo’s choice](https://daily.dev/posts/oQmN1ZmnL?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [Is the human the bug or the feature of AI development?](https://daily.dev/posts/0xSCSqnwS?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
@@ -161,7 +162,6 @@ All my articles for Codemotion Magazine, translated into English for Daily.DEV
 - [A Higher Salary Alone Is Not Enough to Motivate Change](https://daily.dev/posts/yxpA1fucn?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [Programmers as the New Mercenaries: The Evolution of Work in the IT Sector](https://daily.dev/posts/WB32OgVHo?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 - [Adopting New Frameworks Could Jeopardize Your Project](https://daily.dev/posts/HdrTAJBNH?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
-- [The “Hardcore” Attitude of Programmers](https://daily.dev/posts/2CrohgmXQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=NhnqMXKwwlQ3hCqxXOiQG)
 <!-- daily.dev BOOKMARKS:END -->
 
 </details>
