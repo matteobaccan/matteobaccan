@@ -44,16 +44,29 @@ All my repositories with at least 5 stars
 
 Agent skills I have created, ready to be used with Claude and other AI agents
 
+### 💼 Professional skills
+
+Skills for real work: security, web optimization, recruiting
+
 | Skill | Descrizione |
 |-------|-------------|
-| [LinkedInCringe](https://github.com/matteobaccan/LinkedInCringe) | Skill per la creazione di storie Cringe per LinkedIn |
-| [CV-Review](https://github.com/matteobaccan/cv-review) | Skill per Claude Code che valuta curriculum vitae in modo confrontabile, tracciabile e non discriminatorio |
-| [Static Site Optimizer](https://github.com/matteobaccan/static-site-optimizer) | Skill per l'analisi e l'ottimizzazione di siti statici: performance, SEO, accessibilità e best practice |
-| [PitchCringe](https://github.com/matteobaccan/PitchCringe) | Skill per Claude Code che genera pitch deck di startup cringe in formato Marp |
-| [FantaSkill](https://github.com/matteobaccan/FantaSkill) | Skill per Claude Code che prepara l'asta del fantacalcio partendo da dati reali: genera un Excel da tenere aperto durante l'asta e un dossier con i consigli |
+| [ScamCheck](https://github.com/matteobaccan/ScamCheck) | Skill per Claude Code che valuta se un sito è una probabile truffa (falsi negozi, phishing, finti investimenti o crypto, finti servizi) e produce un verdetto motivato, anche come report PDF in qualsiasi lingua |
+| [SiteScan](https://github.com/matteobaccan/SiteScan) | Skill per l'analisi di un sito: riconosce CMS, framework e stack del server, controlla gli header di sicurezza e i percorsi esposti in `robots.txt`, e produce un report dei rischi |
 | [AgentReady](https://github.com/matteobaccan/AgentReady) | Skill per valutare quanto un sito è pronto per gli AI agent: 30 controlli, punteggio da 0 a 5 e generazione di `robots.txt`, `llms.txt`, file `.well-known/` e regole server |
-| [Scrittura Comica](https://github.com/matteobaccan/CorsoScritturaComica) | Skill per la scrittura di battute e monologhi comici, basata sulle tecniche del corso di Federico Basso |
+| [Static Site Optimizer](https://github.com/matteobaccan/static-site-optimizer) | Skill per l'analisi e l'ottimizzazione di siti statici: performance, SEO, accessibilità e best practice |
+| [CV-Review](https://github.com/matteobaccan/cv-review) | Skill per Claude Code che valuta curriculum vitae in modo confrontabile, tracciabile e non discriminatorio |
+
+### 🎭 Fun skills
+
+Skills for satire, comedy and leisure
+
+| Skill | Descrizione |
+|-------|-------------|
+| [LinkedInCringe](https://github.com/matteobaccan/LinkedInCringe) | Tre skill per il cringe su LinkedIn: `linkedin-cringe` scrive storie cringe, `linkedin-cringe-meter` (il Cringiometro) dà a un post un voto di cringe da 1 a 10 e genera un'immagine da usare come risposta, `linkedin-cringe-analytics` analizza i commenti per capire chi ci ha creduto e chi ha colto lo scherzo |
+| [PitchCringe](https://github.com/matteobaccan/PitchCringe) | Skill per Claude Code che genera pitch deck di startup cringe in formato Marp |
 | [StandUpComedy](https://github.com/matteobaccan/StandUpComedy) | Skill per la scrittura di monologhi di Stand Up Comedy |
+| [Scrittura Comica](https://github.com/matteobaccan/CorsoScritturaComica) | Skill per la scrittura di battute e monologhi comici, basata sulle tecniche del corso di Federico Basso |
+| [FantaSkill](https://github.com/matteobaccan/FantaSkill) | Skill per Claude Code che prepara l'asta del fantacalcio partendo da dati reali: genera un Excel da tenere aperto durante l'asta e un dossier con i consigli |
 
 ## My books
 
