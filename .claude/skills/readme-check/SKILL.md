@@ -9,28 +9,32 @@ Quattro attività indipendenti. Falle tutte salvo diversa indicazione, e riporta
 
 ## Struttura del README
 
-L'ordine delle sezioni è stato deciso apposta: **prima il codice, poi il materiale didattico, in fondo i widget**. Non rimetterlo in ordine alfabetico o cronologico.
+L'ordine delle sezioni è stato deciso apposta (riorganizzazione di ottobre 2026): **prima chi è oggi l'autore (AI e skill), poi il codice, poi il materiale didattico, in fondo stack e widget**. Non rimetterlo in ordine alfabetico o cronologico.
 
 ```
-intro + social
-## My open source contributions   <- il segnale più forte, sta in alto
-## Some of my projects
-## Skills                         (### Languages used / explored / technologies)
+intro (2 paragrafi) + social + link sito/resume/domande su una riga
+### 🔭 Currently                  <- 4 punti sulle attività in corso: tienili aggiornati
+## My AI Skills                   (### 💼 Professional skills / ### 🎭 Fun skills)
+## Some of my projects            <- solo repo di codice, vedi sotto
 ## My books
 ## My courses
 ## My slides                      <- adiacente ai corsi: stessa natura
-## My Talks
+## My talks
 ## My articles                    (### Daily.DEV, lista dentro <details>)
-## Stats and badges               (### snake / trophy / hacktoberfest / userstats)
-blocchi commentati
+## Tech stack                     (### Languages used / explored / technologies)
+## Stats and badges               (### snake / hacktoberfest / userstats)
 ```
+
+La lingua della struttura (titoli, intestazioni tabelle, frasi introduttive) è l'inglese; le descrizioni delle righe restano nella lingua in cui sono state scritte.
+
+Le skill vanno divise tra **Professional** (lavoro vero: sicurezza, siti, recruiting) e **Fun** (satira, comicità, tempo libero). FantaSkill sta tra le Fun.
 
 Vincoli da non rompere:
 
 - I marker `<!-- daily.dev BOOKMARKS:START -->` / `:END` sono usati da `gautamkrishnar/blog-post-workflow` per riscrivere la lista articoli. Devono restare, con la lista **direttamente** tra i due. Il `<details>` va **fuori** dai marker, altrimenti la action lo cancella al primo giro.
 - Dopo `<summary>` ci vuole una riga vuota, altrimenti la lista markdown non renderizza dentro il `<details>`.
-- Il file contiene 13 blocchi commentati (widget disattivati). Se sposti sezioni, controlla che aperture e chiusure restino pari:
-  `grep -o '<!--' README.md | wc -l` e `grep -o -- '-->' README.md | wc -l` devono coincidere.
+- I vecchi widget commentati (Heroku, Vercel, quine.sh, metrics) e i badge Medium/dev.to di un altro utente rimasti dal template sono stati **eliminati apposta**. Non reintrodurli. Il widget Trophy è stato tolto perché il servizio risponde 402.
+- Gli unici commenti HTML rimasti sono i due marker daily.dev: `grep -c '<!--' README.md` e `grep -c -- '-->' README.md` devono dare 2.
 
 Se riorganizzi ancora, verifica di non aver perso contenuto confrontando le righe ordinate:
 
@@ -73,7 +77,9 @@ done
 
 ## 2. Tabella "Some of my projects"
 
-Criterio: **tutti** i repo di `matteobaccan` con `stargazers_count >= 5`, **esclusi gli archiviati**, ordinati per star decrescenti.
+Criterio: i repo **di codice** di `matteobaccan` con `stargazers_count >= 5`, **esclusi gli archiviati**, ordinati per star decrescenti.
+
+Sono esclusi anche i repo che hanno già una riga in un'altra sezione (libri, corsi, slide, AI skills), per non avere doppioni: oggi `LinkedInCringe`, `CorsoAIBook`, `CorsoAI`, `CorsoHTML`.
 
 ```bash
 gh api "users/matteobaccan/repos?per_page=100" --paginate \
@@ -92,17 +98,17 @@ gh api "users/matteobaccan/repos?per_page=100" --paginate \
 
 ### Formato riga
 
-Cinque colonne. `$R` è il nome esatto del repo (case-sensitive: `owner`, `html2pop3`, `HarbourJwt`, `cheshire-cat-api-client-java` sono minuscoli/misti), `$LABEL` è l'etichetta visualizzata.
+Tre colonne: progetto, descrizione in inglese di una riga (parti dalla description del repo, riscritta se serve), star. `$R` è il nome esatto del repo (case-sensitive: `owner`, `html2pop3`, `HarbourJwt`, `cheshire-cat-api-client-java` sono minuscoli/misti), `$LABEL` è l'etichetta visualizzata. I badge issue/PR aperte/PR chiuse sono stati tolti apposta: non rimetterli.
 
 ```
-| [**$LABEL**](https://github.com/matteobaccan/$R) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/$R?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/$R/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/$R?color=green&logo=github&style=flat)](https://github.com/matteobaccan/$R/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/$R?style=flat&logo=github)](https://github.com/matteobaccan/$R/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/$R?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/$R/pulls?q=is%3Apr+is%3Aclosed) |
+| [**$LABEL**](https://github.com/matteobaccan/$R) | $DESCRIZIONE | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/$R?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/$R/stargazers) |
 ```
 
 Intestazione:
 
 ```
-| Project :octocat: | Stars :star: | Issues :bug: | Open PRs :bell: | Closed PRs :fire: |
-|---|---|---|---|---|
+| Project | Description | Stars |
+|---|---|---|
 ```
 
 ### Etichette
@@ -114,20 +120,19 @@ Intestazione:
 | `owner` | Owner |
 | `html2pop3` | HTML2POP3 |
 | `HarbourJwt` | HarbourJWT |
-| `CorsoAIBook` | Guida Pratica all'uso delle AI |
-| `CorsoAI` | Corso AI |
-| `CorsoHTML` | Corso HTML |
 | `cheshire-cat-api-client-java` | Cheshire Cat API Client Java |
 
 Per un repo nuovo non in tabella, usa il nome così com'è (`MultiRipper`, `SockRedirector`, `PassiveCooker`) salvo che sia un acronimo che va maiuscolo.
 
 ### Dove NON vanno le star
 
-Solo **Some of my projects** e **My open source contributions** hanno la colonna Stars.
+Solo **Some of my projects** ha la colonna Stars.
 
 `My books`, `My courses` e `My slides` restano a due colonne. La colonna era stata aggiunta e poi **rimossa su richiesta dell'utente**: non riproporla a ogni giro.
 
 ## 3. Contributi open source
+
+La sezione è stata **tolta dal README** a ottobre 2026 (commit "Remove open source contributions section"). Salta questo punto, a meno che l'utente non chieda di reintrodurla. Le istruzioni sotto restano per quel caso.
 
 La sezione `## My open source contributions` elenca i repo **di altri** con più di 1000 star in cui c'è almeno una PR mergiata.
 
@@ -201,7 +206,7 @@ grep -o 'https://img.shields.io/github/stars/[^)]*' README.md | while read u; do
   printf "%s %s\n" "$(curl -s -o /dev/null -w '%{http_code}' "$u")" "${u##*stars/}"
 done
 
-# tutte le righe tabella hanno lo stesso numero di colonne (atteso: 2 e 5)
+# tutte le righe tabella hanno lo stesso numero di colonne (atteso: 2 e 3)
 awk -F'|' '/^\|/{print NF-2}' README.md | sort -u
 
 # nessun artefatto di quoting

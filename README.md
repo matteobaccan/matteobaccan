@@ -1,44 +1,22 @@
 # Matteo Baccan
 
-Hi, I'm Matteo Baccan. I'm a software engineer from Italy.
+I'm a software engineer from Italy. I write code, books and articles, and I have been speaking at programming conferences since 2000.
+
+These days I mostly work on AI-assisted development: Spec-Driven Development, agent skills for Claude Code and the way AI is changing the job of the programmer.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteobaccan)
-[![YouTube](https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/matteobaccan/)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/matteobaccan)
+[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/matteobaccan/)
+[![X](https://img.shields.io/badge/x-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/matteobaccan)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matteo_baccan/)
 
-<!--
-  <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
-  <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
--->
+[👦 Check out my website](https://www.baccan.it) · [🏆 My GitHub Resume](https://resume.github.io/?matteobaccan) · [🙋🏻 Ask a question](https://github.com/matteobaccan/matteobaccan/issues/new) (you can ask anything, but I might choose not to reply 😛)
 
-[👦 Check out my website](https://www.baccan.it)
+### 🔭 Currently
 
-<!--
-[📈 My Metrics](https://metrics.lecoq.io/about/matteobaccan)
--->
-
-[🏆 My GitHub Resume](https://resume.github.io/?matteobaccan)
-
-[🙋🏻 Ask a question](https://github.com/matteobaccan/matteobaccan/issues/new) You can ask anything but I might choose not to reply 😛
-
-## Some of my projects
-
-All my repositories with at least 5 stars
-
-| Project :octocat: | Stars :star: | Issues :bug: | Open PRs :bell: | Closed PRs :fire: |
-|---|---|---|---|---|
-| [**Owner**](https://github.com/matteobaccan/owner) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/owner?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/owner/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/owner?color=green&logo=github&style=flat)](https://github.com/matteobaccan/owner/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/owner?style=flat&logo=github)](https://github.com/matteobaccan/owner/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/owner?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/owner/pulls?q=is%3Apr+is%3Aclosed) |
-| [**MultiRipper**](https://github.com/matteobaccan/MultiRipper) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/MultiRipper?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/MultiRipper/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/MultiRipper?color=green&logo=github&style=flat)](https://github.com/matteobaccan/MultiRipper/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/MultiRipper?style=flat&logo=github)](https://github.com/matteobaccan/MultiRipper/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/MultiRipper?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/MultiRipper/pulls?q=is%3Apr+is%3Aclosed) |
-| [**LinkedInCringe**](https://github.com/matteobaccan/LinkedInCringe) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/LinkedInCringe?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/LinkedInCringe/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/LinkedInCringe?color=green&logo=github&style=flat)](https://github.com/matteobaccan/LinkedInCringe/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/LinkedInCringe?style=flat&logo=github)](https://github.com/matteobaccan/LinkedInCringe/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/LinkedInCringe?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/LinkedInCringe/pulls?q=is%3Apr+is%3Aclosed) |
-| [**HTML2POP3**](https://github.com/matteobaccan/html2pop3) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/html2pop3?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/html2pop3/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/html2pop3?color=green&logo=github&style=flat)](https://github.com/matteobaccan/html2pop3/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/html2pop3?style=flat&logo=github)](https://github.com/matteobaccan/html2pop3/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/html2pop3?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/html2pop3/pulls?q=is%3Apr+is%3Aclosed) |
-| [**SockRedirector**](https://github.com/matteobaccan/SockRedirector) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/SockRedirector?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/SockRedirector/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/SockRedirector?color=green&logo=github&style=flat)](https://github.com/matteobaccan/SockRedirector/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/SockRedirector?style=flat&logo=github)](https://github.com/matteobaccan/SockRedirector/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/SockRedirector?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/SockRedirector/pulls?q=is%3Apr+is%3Aclosed) |
-| [**HarbourJWT**](https://github.com/matteobaccan/HarbourJwt) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/HarbourJwt?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/HarbourJwt/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/HarbourJwt?color=green&logo=github&style=flat)](https://github.com/matteobaccan/HarbourJwt/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/HarbourJwt?style=flat&logo=github)](https://github.com/matteobaccan/HarbourJwt/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/HarbourJwt?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/HarbourJwt/pulls?q=is%3Apr+is%3Aclosed) |
-| [**Guida Pratica all'uso delle AI**](https://github.com/matteobaccan/CorsoAIBook) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/CorsoAIBook?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/CorsoAIBook/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/CorsoAIBook?color=green&logo=github&style=flat)](https://github.com/matteobaccan/CorsoAIBook/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/CorsoAIBook?style=flat&logo=github)](https://github.com/matteobaccan/CorsoAIBook/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/CorsoAIBook?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/CorsoAIBook/pulls?q=is%3Apr+is%3Aclosed) |
-| [**Corso AI**](https://github.com/matteobaccan/CorsoAI) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/CorsoAI?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/CorsoAI/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/CorsoAI?color=green&logo=github&style=flat)](https://github.com/matteobaccan/CorsoAI/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/CorsoAI?style=flat&logo=github)](https://github.com/matteobaccan/CorsoAI/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/CorsoAI?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/CorsoAI/pulls?q=is%3Apr+is%3Aclosed) |
-| [**PassiveCooker**](https://github.com/matteobaccan/PassiveCooker) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/PassiveCooker?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/PassiveCooker/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/PassiveCooker?color=green&logo=github&style=flat)](https://github.com/matteobaccan/PassiveCooker/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/PassiveCooker?style=flat&logo=github)](https://github.com/matteobaccan/PassiveCooker/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/PassiveCooker?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/PassiveCooker/pulls?q=is%3Apr+is%3Aclosed) |
-| [**Corso HTML**](https://github.com/matteobaccan/CorsoHTML) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/CorsoHTML?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/CorsoHTML/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/CorsoHTML?color=green&logo=github&style=flat)](https://github.com/matteobaccan/CorsoHTML/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/CorsoHTML?style=flat&logo=github)](https://github.com/matteobaccan/CorsoHTML/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/CorsoHTML?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/CorsoHTML/pulls?q=is%3Apr+is%3Aclosed) |
-| [**Cheshire Cat API Client Java**](https://github.com/matteobaccan/cheshire-cat-api-client-java) | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/cheshire-cat-api-client-java?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/cheshire-cat-api-client-java/stargazers) | [![GitHub issues](https://img.shields.io/github/issues/matteobaccan/cheshire-cat-api-client-java?color=green&logo=github&style=flat)](https://github.com/matteobaccan/cheshire-cat-api-client-java/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/matteobaccan/cheshire-cat-api-client-java?style=flat&logo=github)](https://github.com/matteobaccan/cheshire-cat-api-client-java/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/matteobaccan/cheshire-cat-api-client-java?style=flat&color=critical&logo=github)](https://github.com/matteobaccan/cheshire-cat-api-client-java/pulls?q=is%3Apr+is%3Aclosed) |
+- ✍️ Writing [CleanSpec](https://github.com/matteobaccan/CleanSpec), a book on Spec-Driven Development
+- 🎤 Talking about how [Spec-Driven Development is changing the way we program](https://github.com/matteobaccan/wemakefuture2026)
+- 🤖 Building [agent skills](#my-ai-skills) for Claude Code, the latest is [ScamCheck](https://github.com/matteobaccan/ScamCheck)
+- 📰 Writing for [Codemotion Magazine](#my-articles)
 
 ## My AI Skills
 
@@ -48,8 +26,8 @@ Agent skills I have created, ready to be used with Claude and other AI agents
 
 Skills for real work: security, web optimization, recruiting
 
-| Skill | Descrizione |
-|-------|-------------|
+| Skill | Description |
+|---|---|
 | [ScamCheck](https://github.com/matteobaccan/ScamCheck) | Skill per Claude Code che valuta se un sito è una probabile truffa (falsi negozi, phishing, finti investimenti o crypto, finti servizi) e produce un verdetto motivato, anche come report PDF in qualsiasi lingua |
 | [SiteScan](https://github.com/matteobaccan/SiteScan) | Skill per l'analisi di un sito: riconosce CMS, framework e stack del server, controlla gli header di sicurezza e i percorsi esposti in `robots.txt`, e produce un report dei rischi |
 | [AgentReady](https://github.com/matteobaccan/AgentReady) | Skill per valutare quanto un sito è pronto per gli AI agent: 30 controlli, punteggio da 0 a 5 e generazione di `robots.txt`, `llms.txt`, file `.well-known/` e regole server |
@@ -60,27 +38,43 @@ Skills for real work: security, web optimization, recruiting
 
 Skills for satire, comedy and leisure
 
-| Skill | Descrizione |
-|-------|-------------|
+| Skill | Description |
+|---|---|
 | [LinkedInCringe](https://github.com/matteobaccan/LinkedInCringe) | Tre skill per il cringe su LinkedIn: `linkedin-cringe` scrive storie cringe, `linkedin-cringe-meter` (il Cringiometro) dà a un post un voto di cringe da 1 a 10 e genera un'immagine da usare come risposta, `linkedin-cringe-analytics` analizza i commenti per capire chi ci ha creduto e chi ha colto lo scherzo |
 | [PitchCringe](https://github.com/matteobaccan/PitchCringe) | Skill per Claude Code che genera pitch deck di startup cringe in formato Marp |
 | [StandUpComedy](https://github.com/matteobaccan/StandUpComedy) | Skill per la scrittura di monologhi di Stand Up Comedy |
 | [Scrittura Comica](https://github.com/matteobaccan/CorsoScritturaComica) | Skill per la scrittura di battute e monologhi comici, basata sulle tecniche del corso di Federico Basso |
 | [FantaSkill](https://github.com/matteobaccan/FantaSkill) | Skill per Claude Code che prepara l'asta del fantacalcio partendo da dati reali: genera un Excel da tenere aperto durante l'asta e un dossier con i consigli |
 
+## Some of my projects
+
+My code repositories with at least 5 stars. Books, courses and skills have their own sections.
+
+| Project | Description | Stars |
+|---|---|---|
+| [**Owner**](https://github.com/matteobaccan/owner) | Java library that removes the boilerplate code of properties based configuration | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/owner?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/owner/stargazers) |
+| [**MultiRipper**](https://github.com/matteobaccan/MultiRipper) | Multi-purpose file ripper written in Harbour | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/MultiRipper?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/MultiRipper/stargazers) |
+| [**HTML2POP3**](https://github.com/matteobaccan/html2pop3) | Virtual POP3, SMTP and NNTP server | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/html2pop3?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/html2pop3/stargazers) |
+| [**SockRedirector**](https://github.com/matteobaccan/SockRedirector) | Redirects TCP connections from one IP address and port to another | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/SockRedirector?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/SockRedirector/stargazers) |
+| [**HarbourJWT**](https://github.com/matteobaccan/HarbourJwt) | JWT implementation for Harbour | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/HarbourJwt?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/HarbourJwt/stargazers) |
+| [**PassiveCooker**](https://github.com/matteobaccan/PassiveCooker) | Arduino project for the Barilla Passive Cooker | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/PassiveCooker?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/PassiveCooker/stargazers) |
+| [**Cheshire Cat API Client Java**](https://github.com/matteobaccan/cheshire-cat-api-client-java) | Java client for the Cheshire Cat AI framework | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/cheshire-cat-api-client-java?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/cheshire-cat-api-client-java/stargazers) |
+| [**FastTail**](https://github.com/matteobaccan/FastTail) | Ultra-fast multi-stream log monitor and tail viewer written in Rust | [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/FastTail?color=yellow&logo=github&style=flat)](https://github.com/matteobaccan/FastTail/stargazers) |
+
 ## My books
 
 | Title | Description |
-|-------|-------------|
+|---|---|
+| [CleanSpec](https://github.com/matteobaccan/CleanSpec) | A book on Spec-Driven Development: how to write specifications that AI coding agents can turn into correct software |
 | [Path To Senior Developer](https://github.com/matteobaccan/PathToSeniorDeveloper) | Il mio libro di riflessioni che ogni sviluppatore dovrebbe porsi per passare da Junior a Senior |
 | [Guida Pratica all'uso delle AI](https://github.com/matteobaccan/CorsoAIBook) | Libro in italiano per capire come usare le intelligenze artificiali nella vita di tutti i giorni |
 
 ## My courses
 
-Below is the material I have produced over time while studying various technologies. It can be used as a support for course creation or as personal study material.
+Material I have produced over time while studying various technologies. It can be used as a support for course creation or as personal study material. Most of it is in Italian.
 
-| Corso | Descrizione |
-|-------|-------------|
+| Course | Description |
+|---|---|
 | [WebDesign](https://github.com/matteobaccan/CorsoWebDesign) | Materiale in italiano del mio corso di WebDesign |
 | [WebDesign2](https://github.com/matteobaccan/CorsoWebDesign2) | Materiale in italiano del mio corso avanzato di WebDesign |
 | [HTML](https://github.com/matteobaccan/CorsoHTML) | Materiale in italiano del mio corso HTML5 - Slide ed esempi <br/> [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/kNxEPO?sort_by=itemcreatedat) |
@@ -96,10 +90,10 @@ Below is the material I have produced over time while studying various technolog
 
 ## My slides
 
-Below is the material I have produced over time while studying various technologies, too short to be used for a course
+Material too short to be used for a course
 
-| Corso | Descrizione |
-|-------|-------------|
+| Slides | Description |
+|---|---|
 | [Programming Languages Of Tomorrow](https://github.com/matteobaccan/ProgrammingLanguagesOfTomorrow)| 2024 and Beyond: The Programming Languages of Tomorrow |
 | [Concetti di base della Reputation Economy](https://github.com/matteobaccan/CorsoReputationEconomy) | Concetti di base della Reputation Economy: cos'è e perché dovremmo tenerne conto - Slide |
 | [Concetti Reputazione Digitale](https://github.com/matteobaccan/CorsoReputazioneDigitale) | Concetti di base della Reputation digitale: quanto conta la nostra reputazione? - Slide |
@@ -107,11 +101,9 @@ Below is the material I have produced over time while studying various technolog
 | [Online IDE](https://github.com/matteobaccan/CorsoOnlineIDE) | Alternative a Codespaces per l'edit di progetti su GitHub - Slide |
 | [AI Generation](https://github.com/matteobaccan/AIGeneration) | Cosa possono fare per noi le attuali AI - Slide |
 
-## My Talks
+## My talks
 
-Inside this project you can find all the events I attended and the material I presented
-
-[All my talks](https://github.com/matteobaccan/Eventi)
+[All my talks](https://github.com/matteobaccan/Eventi): every event I attended and the material I presented, since 2000
 
 ## My articles
 
@@ -149,7 +141,7 @@ All my articles for Codemotion Magazine, translated into English for Daily.DEV
 
 </details>
 
-## Skills
+## Tech stack
 
 ### 💻 Languages I have used
 
@@ -165,6 +157,7 @@ All my articles for Codemotion Magazine, translated into English for Daily.DEV
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
 
 ### 🧪 Languages I have explored
 
@@ -184,12 +177,17 @@ Languages I have tried out in my [boilerplate collection](https://github.com/mat
 
 ### 🗜 Some of the technologies I have worked with
 
-![Android](http://img.shields.io/badge/-Android-333333?style=flat&logo=android)
-![Android Studio](http://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
-![Apache Maven](http://img.shields.io/badge/-Apache%20Maven-333333?style=flat&logo=Apache%20Maven&logoColor=C71A36)
-![Apache ANT](http://img.shields.io/badge/-Apache%20ANT-333333?style=flat&logo=Apache%20Ant&logoColor=A81C7D)
-![Apache NetBeans IDE](http://img.shields.io/badge/-Apache%20NetBeans%20IDE-333333?style=flat&logo=Apache%20NetBeans%20IDE&logoColor=0052CC)
-![Eclipse](http://img.shields.io/badge/-Eclipse-333333?style=flat&logo=Eclipse)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-333333?style=flat&logo=claude&logoColor=D97757)
+![Agent Skills](https://img.shields.io/badge/-Agent%20Skills-333333?style=flat&logo=anthropic)
+![MCP](https://img.shields.io/badge/-MCP-333333?style=flat&logo=modelcontextprotocol)
+![Marp](https://img.shields.io/badge/-Marp-333333?style=flat)
+
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
+![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-333333?style=flat&logo=Apache%20Maven&logoColor=C71A36)
+![Apache ANT](https://img.shields.io/badge/-Apache%20ANT-333333?style=flat&logo=Apache%20Ant&logoColor=A81C7D)
+![Apache NetBeans IDE](https://img.shields.io/badge/-Apache%20NetBeans%20IDE-333333?style=flat&logo=Apache%20NetBeans%20IDE&logoColor=0052CC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=Eclipse)
 
 ![Svn](https://img.shields.io/badge/-Svn-333333?style=flat&logo=subversion)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
@@ -225,12 +223,12 @@ Languages I have tried out in my [boilerplate collection](https://github.com/mat
 ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass&logoColor=CC6699)
 ![WebAssembly](https://img.shields.io/badge/-WebAssembly-333333?style=flat&logo=webassembly&logoColor=654FF0)
 
-![AWS](http://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
 ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify&logoColor=00C7B7)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=Raspberry%20Pi&logoColor=C51A4A)
-![MacOS](http://img.shields.io/badge/-Mac%20OS-333333?style=flat&logo=apple)
-![Windows](http://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
+![MacOS](https://img.shields.io/badge/-Mac%20OS-333333?style=flat&logo=apple)
+![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 
 ## Stats and badges
 
@@ -238,53 +236,8 @@ Languages I have tried out in my [boilerplate collection](https://github.com/mat
 
 ![Snake animation](https://github.com/matteobaccan/matteobaccan/blob/snake/github-contribution-grid-snake.svg)
 
-### Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=matteobaccan)](https://github.com/ryo-ma/github-profile-trophy)
-
-### Hacktoberfest 2023-2025 badges
+### Hacktoberfest badges
 
 [![An image of @matteobaccan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/matteobaccan)](https://holopin.io/@matteobaccan)
 
-
 ![My user statistics](images/userstats.svg)
-
-<!--
-### More statistics
-![Contribution](https://github-readme-streak-stats.herokuapp.com/?user=matteobaccan)
-![Trophy](https://github-profile-trophy.vercel.app/?username=matteobaccan)
-![Activity](https://activity-graph.herokuapp.com/graph?username=matteobaccan&theme=github&count_private=true)
-![Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matteobaccan&theme=github_dark)
--->
-
-<!--
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=matteobaccan">
-<img src="https://github-profile-trophy.vercel.app/?username=matteobaccan">
-<img src="https://activity-graph.herokuapp.com/graph?username=matteobaccan&theme=github&count_private=true">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matteobaccan&theme=github_dark">
--->
-
-<!--https://simpleicons.org/?q=raspb -->
-<!-- https://shields.io/ -->
-
-<!--
-![Matteobaccan's github stats](https://github-readme-stats.vercel.app/api?username=matteobaccan)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteobaccan&layout=compact)
--->
-
-<!--
-[![matteobaccan's GitHub stats](https://stats.quine.sh/matteobaccan/github)](https://quine.sh/profile/matteobaccan)
--->
-
-<!--
-<a href="https://quine.sh/profile/matteobaccan"><img src="https://stats.quine.sh/matteobaccan/github" alt="matteobaccan's GitHub stats" width="840px"></a>
--->
-
-
-<!--
-![Metrics](github-metrics.svg)
--->
-
-<!--
-![Profile views](https://gpvc.arturio.dev/matteobaccan)
--->
